@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Productivity Tracker 📊
 
 A comprehensive web-based application designed to help students track and improve their productivity, monitor coding progress, manage courses, and analyze mobile usage patterns.
@@ -387,3 +388,6 @@ For issues, questions, or suggestions:
 ---
 
 **Happy Tracking! Keep Improving Your Productivity! 🚀**
+=======
+# student-productivity-tracker
+>>>>>>> eba62706e000ca213f6814a3081a4052a91e588c
