@@ -1,0 +1,6351 @@
+{
+  "students": [
+    {
+      "student_id": "STU1759147205104",
+      "personal_info": {
+        "name": "Kit28.24bam007 Student",
+        "email": "kit28.24bam007@gmail.com",
+        "phone": "+917615612365",
+        "course": "Computer Science",
+        "semester": 1,
+        "university": "SRM University",
+        "join_date": "2024-10-11"
+      },
+      "academic_info": {
+        "cgpa": "8.0",
+        "attendance": 82,
+        "completed_courses": 5,
+        "current_courses": 3,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics",
+          "Web Development"
+        ]
+      }
+    },
+    {
+      "student_id": "STU1759152550624",
+      "personal_info": {
+        "name": "Asdfghjklqwertyui Student",
+        "email": "asdfghjklqwertyui@gmail.com",
+        "phone": "+916723924621",
+        "course": "Business Administration",
+        "semester": 8,
+        "university": "Anna University",
+        "join_date": "2025-09-07"
+      },
+      "academic_info": {
+        "cgpa": "8.6",
+        "attendance": 80,
+        "completed_courses": 3,
+        "current_courses": 2,
+        "certificates": [
+          "Business Administration Fundamentals",
+          "Programming Basics",
+          "Web Development"
+        ]
+      }
+    },
+    {
+      "student_id": "STU1759331845435",
+      "personal_info": {
+        "name": "Archanadevi28929 Student",
+        "email": "archanadevi28929@gmail.com",
+        "phone": "+916903658109",
+        "course": "Data Science",
+        "semester": 5,
+        "university": "VIT University",
+        "join_date": "2025-04-02"
+      },
+      "academic_info": {
+        "cgpa": "7.0",
+        "attendance": 86,
+        "completed_courses": 2,
+        "current_courses": 2,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics",
+          "Web Development"
+        ]
+      }
+    },
+    {
+      "student_id": "STU1759501254274",
+      "personal_info": {
+        "name": "Test Student",
+        "email": "test@student.com",
+        "phone": "+918263472643",
+        "course": "Data Science",
+        "semester": 5,
+        "university": "SRM University",
+        "join_date": "2024-10-14"
+      },
+      "academic_info": {
+        "cgpa": "7.4",
+        "attendance": 81,
+        "completed_courses": 4,
+        "current_courses": 2,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics",
+          "Web Development"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "personal_info": {
+        "name": "UCI Student 1",
+        "email": "uci_1@example.edu",
+        "phone": "+915201533754",
+        "course": "Computer Science",
+        "semester": 1,
+        "university": "Amrita University",
+        "join_date": "2025-01-12"
+      },
+      "academic_info": {
+        "cgpa": "5.2",
+        "attendance": 79,
+        "completed_courses": 2,
+        "current_courses": 1,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "personal_info": {
+        "name": "UCI Student 2",
+        "email": "uci_2@example.edu",
+        "phone": "+918127601802",
+        "course": "Data Science",
+        "semester": 2,
+        "university": "VIT University",
+        "join_date": "2025-10-01"
+      },
+      "academic_info": {
+        "cgpa": "6.0",
+        "attendance": 77,
+        "completed_courses": 3,
+        "current_courses": 2,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "personal_info": {
+        "name": "UCI Student 3",
+        "email": "uci_3@example.edu",
+        "phone": "+916477949591",
+        "course": "Computer Science",
+        "semester": 3,
+        "university": "SRM University",
+        "join_date": "2025-05-28"
+      },
+      "academic_info": {
+        "cgpa": "7.5",
+        "attendance": 81,
+        "completed_courses": 4,
+        "current_courses": 3,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "personal_info": {
+        "name": "UCI Student 4",
+        "email": "uci_4@example.edu",
+        "phone": "+913140103098",
+        "course": "Data Science",
+        "semester": 4,
+        "university": "VIT University",
+        "join_date": "2025-01-13"
+      },
+      "academic_info": {
+        "cgpa": "4.5",
+        "attendance": 87,
+        "completed_courses": 5,
+        "current_courses": 1,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "personal_info": {
+        "name": "UCI Student 5",
+        "email": "uci_5@example.edu",
+        "phone": "+911469916744",
+        "course": "Computer Science",
+        "semester": 5,
+        "university": "Anna University",
+        "join_date": "2024-11-17"
+      },
+      "academic_info": {
+        "cgpa": "6.0",
+        "attendance": 85,
+        "completed_courses": 2,
+        "current_courses": 2,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "personal_info": {
+        "name": "UCI Student 6",
+        "email": "uci_6@example.edu",
+        "phone": "+917451009468",
+        "course": "Data Science",
+        "semester": 6,
+        "university": "Amrita University",
+        "join_date": "2024-12-16"
+      },
+      "academic_info": {
+        "cgpa": "6.5",
+        "attendance": 76,
+        "completed_courses": 3,
+        "current_courses": 3,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "personal_info": {
+        "name": "UCI Student 7",
+        "email": "uci_7@example.edu",
+        "phone": "+914424628974",
+        "course": "Computer Science",
+        "semester": 7,
+        "university": "Amrita University",
+        "join_date": "2024-12-04"
+      },
+      "academic_info": {
+        "cgpa": "5.5",
+        "attendance": 92,
+        "completed_courses": 4,
+        "current_courses": 1,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "personal_info": {
+        "name": "UCI Student 8",
+        "email": "uci_8@example.edu",
+        "phone": "+915074143431",
+        "course": "Data Science",
+        "semester": 8,
+        "university": "Amrita University",
+        "join_date": "2024-12-27"
+      },
+      "academic_info": {
+        "cgpa": "4.8",
+        "attendance": 84,
+        "completed_courses": 5,
+        "current_courses": 2,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "personal_info": {
+        "name": "UCI Student 9",
+        "email": "uci_9@example.edu",
+        "phone": "+911831257910",
+        "course": "Computer Science",
+        "semester": 1,
+        "university": "VIT University",
+        "join_date": "2025-08-02"
+      },
+      "academic_info": {
+        "cgpa": "7.0",
+        "attendance": 92,
+        "completed_courses": 2,
+        "current_courses": 3,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "personal_info": {
+        "name": "UCI Student 1",
+        "email": "uci_1@example.edu",
+        "phone": "+911384318386",
+        "course": "Computer Science",
+        "semester": 1,
+        "university": "Anna University",
+        "join_date": "2025-02-21"
+      },
+      "academic_info": {
+        "cgpa": "5.2",
+        "attendance": 78,
+        "completed_courses": 2,
+        "current_courses": 1,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "personal_info": {
+        "name": "UCI Student 2",
+        "email": "uci_2@example.edu",
+        "phone": "+914674255521",
+        "course": "Data Science",
+        "semester": 2,
+        "university": "SRM University",
+        "join_date": "2025-03-26"
+      },
+      "academic_info": {
+        "cgpa": "6.0",
+        "attendance": 91,
+        "completed_courses": 3,
+        "current_courses": 2,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "personal_info": {
+        "name": "UCI Student 3",
+        "email": "uci_3@example.edu",
+        "phone": "+918289772482",
+        "course": "Computer Science",
+        "semester": 3,
+        "university": "VIT University",
+        "join_date": "2025-01-19"
+      },
+      "academic_info": {
+        "cgpa": "7.5",
+        "attendance": 81,
+        "completed_courses": 4,
+        "current_courses": 3,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "personal_info": {
+        "name": "UCI Student 4",
+        "email": "uci_4@example.edu",
+        "phone": "+917326700855",
+        "course": "Data Science",
+        "semester": 4,
+        "university": "Amrita University",
+        "join_date": "2025-04-07"
+      },
+      "academic_info": {
+        "cgpa": "4.5",
+        "attendance": 97,
+        "completed_courses": 5,
+        "current_courses": 1,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "personal_info": {
+        "name": "UCI Student 5",
+        "email": "uci_5@example.edu",
+        "phone": "+911202086583",
+        "course": "Computer Science",
+        "semester": 5,
+        "university": "Amrita University",
+        "join_date": "2025-06-24"
+      },
+      "academic_info": {
+        "cgpa": "6.0",
+        "attendance": 87,
+        "completed_courses": 2,
+        "current_courses": 2,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "personal_info": {
+        "name": "UCI Student 6",
+        "email": "uci_6@example.edu",
+        "phone": "+917823768688",
+        "course": "Data Science",
+        "semester": 6,
+        "university": "Amrita University",
+        "join_date": "2024-11-11"
+      },
+      "academic_info": {
+        "cgpa": "6.5",
+        "attendance": 72,
+        "completed_courses": 3,
+        "current_courses": 3,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "personal_info": {
+        "name": "UCI Student 7",
+        "email": "uci_7@example.edu",
+        "phone": "+917593822829",
+        "course": "Computer Science",
+        "semester": 7,
+        "university": "SRM University",
+        "join_date": "2025-02-10"
+      },
+      "academic_info": {
+        "cgpa": "5.5",
+        "attendance": 98,
+        "completed_courses": 4,
+        "current_courses": 1,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "personal_info": {
+        "name": "UCI Student 8",
+        "email": "uci_8@example.edu",
+        "phone": "+916996888606",
+        "course": "Data Science",
+        "semester": 8,
+        "university": "VIT University",
+        "join_date": "2024-12-21"
+      },
+      "academic_info": {
+        "cgpa": "4.8",
+        "attendance": 84,
+        "completed_courses": 5,
+        "current_courses": 2,
+        "certificates": [
+          "Data Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "personal_info": {
+        "name": "UCI Student 9",
+        "email": "uci_9@example.edu",
+        "phone": "+913566878349",
+        "course": "Computer Science",
+        "semester": 1,
+        "university": "SRM University",
+        "join_date": "2025-07-25"
+      },
+      "academic_info": {
+        "cgpa": "7.0",
+        "attendance": 71,
+        "completed_courses": 2,
+        "current_courses": 3,
+        "certificates": [
+          "Computer Science Fundamentals",
+          "Programming Basics"
+        ]
+      }
+    },
+    {
+      "student_id": "STU1763124701342",
+      "personal_info": {
+        "name": "John Student",
+        "email": "john@student.com",
+        "phone": "+918653835151",
+        "course": "Computer Science",
+        "semester": 1,
+        "university": "Amrita University",
+        "join_date": "2025-09-23"
+      },
+      "academic_info": {
+        "cgpa": "8.5",
+        "attendance": 90,
+        "completed_courses": 3,
+        "current_courses": 3,
+        "certificates": [
+          "Engineering Fundamentals",
+          "Programming Basics",
+          "Web Development"
+        ]
+      }
+    }
+  ],
+  "productivity": [
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-29",
+      "study_time": 321,
+      "productive_time": 250,
+      "productivity_score": 86,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 7
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-28",
+      "study_time": 217,
+      "productive_time": 169,
+      "productivity_score": 73,
+      "tasks_completed": 3,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-27",
+      "study_time": 275,
+      "productive_time": 173,
+      "productivity_score": 83,
+      "tasks_completed": 10,
+      "focus_sessions": 1,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-26",
+      "study_time": 310,
+      "productive_time": 279,
+      "productivity_score": 83,
+      "tasks_completed": 3,
+      "focus_sessions": 3,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-25",
+      "study_time": 348,
+      "productive_time": 133,
+      "productivity_score": 75,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-24",
+      "study_time": 262,
+      "productive_time": 276,
+      "productivity_score": 76,
+      "tasks_completed": 9,
+      "focus_sessions": 5,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-23",
+      "study_time": 168,
+      "productive_time": 277,
+      "productivity_score": 75,
+      "tasks_completed": 8,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-29",
+      "study_time": 285,
+      "productive_time": 109,
+      "productivity_score": 78,
+      "tasks_completed": 4,
+      "focus_sessions": 2,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-28",
+      "study_time": 202,
+      "productive_time": 205,
+      "productivity_score": 87,
+      "tasks_completed": 5,
+      "focus_sessions": 1,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-27",
+      "study_time": 182,
+      "productive_time": 244,
+      "productivity_score": 90,
+      "tasks_completed": 6,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-26",
+      "study_time": 136,
+      "productive_time": 116,
+      "productivity_score": 78,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-25",
+      "study_time": 206,
+      "productive_time": 280,
+      "productivity_score": 82,
+      "tasks_completed": 8,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-24",
+      "study_time": 163,
+      "productive_time": 248,
+      "productivity_score": 75,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-23",
+      "study_time": 144,
+      "productive_time": 195,
+      "productivity_score": 69,
+      "tasks_completed": 3,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-10-01",
+      "study_time": 166,
+      "productive_time": 178,
+      "productivity_score": 81,
+      "tasks_completed": 7,
+      "focus_sessions": 3,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-30",
+      "study_time": 283,
+      "productive_time": 121,
+      "productivity_score": 89,
+      "tasks_completed": 3,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-29",
+      "study_time": 154,
+      "productive_time": 148,
+      "productivity_score": 80,
+      "tasks_completed": 6,
+      "focus_sessions": 5,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-28",
+      "study_time": 358,
+      "productive_time": 254,
+      "productivity_score": 69,
+      "tasks_completed": 6,
+      "focus_sessions": 5,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-27",
+      "study_time": 247,
+      "productive_time": 247,
+      "productivity_score": 79,
+      "tasks_completed": 3,
+      "focus_sessions": 2,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-26",
+      "study_time": 330,
+      "productive_time": 165,
+      "productivity_score": 78,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-25",
+      "study_time": 278,
+      "productive_time": 115,
+      "productivity_score": 88,
+      "tasks_completed": 7,
+      "focus_sessions": 1,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-10-03",
+      "study_time": 356,
+      "productive_time": 172,
+      "productivity_score": 80,
+      "tasks_completed": 7,
+      "focus_sessions": 2,
+      "breaks_taken": 7
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-10-02",
+      "study_time": 217,
+      "productive_time": 208,
+      "productivity_score": 90,
+      "tasks_completed": 4,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-10-01",
+      "study_time": 137,
+      "productive_time": 156,
+      "productivity_score": 67,
+      "tasks_completed": 6,
+      "focus_sessions": 1,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-30",
+      "study_time": 225,
+      "productive_time": 189,
+      "productivity_score": 75,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-29",
+      "study_time": 210,
+      "productive_time": 281,
+      "productivity_score": 86,
+      "tasks_completed": 6,
+      "focus_sessions": 2,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-28",
+      "study_time": 323,
+      "productive_time": 292,
+      "productivity_score": 67,
+      "tasks_completed": 10,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-27",
+      "study_time": 178,
+      "productive_time": 249,
+      "productivity_score": 91,
+      "tasks_completed": 8,
+      "focus_sessions": 2,
+      "breaks_taken": 7
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-06",
+      "study_time": 201,
+      "productive_time": 201,
+      "productivity_score": 100,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-05",
+      "study_time": 314,
+      "productive_time": 273,
+      "productivity_score": 94,
+      "tasks_completed": 6,
+      "focus_sessions": 1,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-04",
+      "study_time": 236,
+      "productive_time": 162,
+      "productivity_score": 87,
+      "tasks_completed": 8,
+      "focus_sessions": 5,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-03",
+      "study_time": 276,
+      "productive_time": 258,
+      "productivity_score": 97,
+      "tasks_completed": 6,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-02",
+      "study_time": 146,
+      "productive_time": 146,
+      "productivity_score": 100,
+      "tasks_completed": 5,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-01",
+      "study_time": 134,
+      "productive_time": 125,
+      "productivity_score": 97,
+      "tasks_completed": 7,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-09-30",
+      "study_time": 169,
+      "productive_time": 169,
+      "productivity_score": 100,
+      "tasks_completed": 6,
+      "focus_sessions": 2,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-06",
+      "study_time": 306,
+      "productive_time": 287,
+      "productivity_score": 97,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-05",
+      "study_time": 347,
+      "productive_time": 342,
+      "productivity_score": 99,
+      "tasks_completed": 7,
+      "focus_sessions": 1,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-04",
+      "study_time": 338,
+      "productive_time": 210,
+      "productivity_score": 84,
+      "tasks_completed": 3,
+      "focus_sessions": 2,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-03",
+      "study_time": 123,
+      "productive_time": 113,
+      "productivity_score": 96,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-02",
+      "study_time": 140,
+      "productive_time": 117,
+      "productivity_score": 93,
+      "tasks_completed": 4,
+      "focus_sessions": 4,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-01",
+      "study_time": 252,
+      "productive_time": 203,
+      "productivity_score": 92,
+      "tasks_completed": 4,
+      "focus_sessions": 2,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-09-30",
+      "study_time": 124,
+      "productive_time": 124,
+      "productivity_score": 100,
+      "tasks_completed": 7,
+      "focus_sessions": 3,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-06",
+      "study_time": 196,
+      "productive_time": 169,
+      "productivity_score": 94,
+      "tasks_completed": 9,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-05",
+      "study_time": 341,
+      "productive_time": 135,
+      "productivity_score": 75,
+      "tasks_completed": 7,
+      "focus_sessions": 1,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-04",
+      "study_time": 292,
+      "productive_time": 278,
+      "productivity_score": 98,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-03",
+      "study_time": 177,
+      "productive_time": 140,
+      "productivity_score": 91,
+      "tasks_completed": 6,
+      "focus_sessions": 2,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-02",
+      "study_time": 353,
+      "productive_time": 353,
+      "productivity_score": 100,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-01",
+      "study_time": 124,
+      "productive_time": 123,
+      "productivity_score": 99,
+      "tasks_completed": 8,
+      "focus_sessions": 1,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-09-30",
+      "study_time": 193,
+      "productive_time": 177,
+      "productivity_score": 96,
+      "tasks_completed": 5,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-06",
+      "study_time": 281,
+      "productive_time": 84,
+      "productivity_score": 71,
+      "tasks_completed": 6,
+      "focus_sessions": 1,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-05",
+      "study_time": 282,
+      "productive_time": 94,
+      "productivity_score": 73,
+      "tasks_completed": 4,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-04",
+      "study_time": 156,
+      "productive_time": 99,
+      "productivity_score": 85,
+      "tasks_completed": 6,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-03",
+      "study_time": 241,
+      "productive_time": 241,
+      "productivity_score": 100,
+      "tasks_completed": 3,
+      "focus_sessions": 2,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-02",
+      "study_time": 333,
+      "productive_time": 289,
+      "productivity_score": 94,
+      "tasks_completed": 5,
+      "focus_sessions": 4,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-01",
+      "study_time": 169,
+      "productive_time": 89,
+      "productivity_score": 81,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-09-30",
+      "study_time": 246,
+      "productive_time": 222,
+      "productivity_score": 96,
+      "tasks_completed": 6,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-06",
+      "study_time": 292,
+      "productive_time": 136,
+      "productivity_score": 78,
+      "tasks_completed": 6,
+      "focus_sessions": 1,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-05",
+      "study_time": 205,
+      "productive_time": 142,
+      "productivity_score": 87,
+      "tasks_completed": 10,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-04",
+      "study_time": 331,
+      "productive_time": 321,
+      "productivity_score": 98,
+      "tasks_completed": 6,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-03",
+      "study_time": 163,
+      "productive_time": 122,
+      "productivity_score": 89,
+      "tasks_completed": 5,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-02",
+      "study_time": 300,
+      "productive_time": 231,
+      "productivity_score": 90,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-01",
+      "study_time": 292,
+      "productive_time": 139,
+      "productivity_score": 79,
+      "tasks_completed": 4,
+      "focus_sessions": 1,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-09-30",
+      "study_time": 181,
+      "productive_time": 181,
+      "productivity_score": 100,
+      "tasks_completed": 7,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-06",
+      "study_time": 307,
+      "productive_time": 307,
+      "productivity_score": 100,
+      "tasks_completed": 3,
+      "focus_sessions": 3,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-05",
+      "study_time": 158,
+      "productive_time": 158,
+      "productivity_score": 100,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-04",
+      "study_time": 267,
+      "productive_time": 267,
+      "productivity_score": 100,
+      "tasks_completed": 9,
+      "focus_sessions": 5,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-03",
+      "study_time": 317,
+      "productive_time": 281,
+      "productivity_score": 95,
+      "tasks_completed": 4,
+      "focus_sessions": 3,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-02",
+      "study_time": 318,
+      "productive_time": 159,
+      "productivity_score": 80,
+      "tasks_completed": 7,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-01",
+      "study_time": 306,
+      "productive_time": 306,
+      "productivity_score": 100,
+      "tasks_completed": 5,
+      "focus_sessions": 2,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-09-30",
+      "study_time": 126,
+      "productive_time": 119,
+      "productivity_score": 97,
+      "tasks_completed": 7,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-06",
+      "study_time": 331,
+      "productive_time": 140,
+      "productivity_score": 76,
+      "tasks_completed": 3,
+      "focus_sessions": 3,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-05",
+      "study_time": 252,
+      "productive_time": 147,
+      "productivity_score": 83,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-04",
+      "study_time": 345,
+      "productive_time": 345,
+      "productivity_score": 100,
+      "tasks_completed": 6,
+      "focus_sessions": 1,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-03",
+      "study_time": 274,
+      "productive_time": 274,
+      "productivity_score": 100,
+      "tasks_completed": 8,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-02",
+      "study_time": 133,
+      "productive_time": 112,
+      "productivity_score": 93,
+      "tasks_completed": 6,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-01",
+      "study_time": 154,
+      "productive_time": 85,
+      "productivity_score": 82,
+      "tasks_completed": 7,
+      "focus_sessions": 2,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-09-30",
+      "study_time": 287,
+      "productive_time": 287,
+      "productivity_score": 100,
+      "tasks_completed": 9,
+      "focus_sessions": 3,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-06",
+      "study_time": 196,
+      "productive_time": 132,
+      "productivity_score": 86,
+      "tasks_completed": 7,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-05",
+      "study_time": 288,
+      "productive_time": 217,
+      "productivity_score": 90,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-04",
+      "study_time": 343,
+      "productive_time": 239,
+      "productivity_score": 87,
+      "tasks_completed": 10,
+      "focus_sessions": 2,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-03",
+      "study_time": 240,
+      "productive_time": 204,
+      "productivity_score": 94,
+      "tasks_completed": 6,
+      "focus_sessions": 5,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-02",
+      "study_time": 229,
+      "productive_time": 105,
+      "productivity_score": 78,
+      "tasks_completed": 10,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-01",
+      "study_time": 272,
+      "productive_time": 221,
+      "productivity_score": 92,
+      "tasks_completed": 3,
+      "focus_sessions": 3,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-09-30",
+      "study_time": 209,
+      "productive_time": 194,
+      "productivity_score": 97,
+      "tasks_completed": 7,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-06",
+      "study_time": 312,
+      "productive_time": 144,
+      "productivity_score": 78,
+      "tasks_completed": 10,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-05",
+      "study_time": 131,
+      "productive_time": 131,
+      "productivity_score": 100,
+      "tasks_completed": 3,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-04",
+      "study_time": 235,
+      "productive_time": 235,
+      "productivity_score": 100,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-03",
+      "study_time": 327,
+      "productive_time": 61,
+      "productivity_score": 67,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-02",
+      "study_time": 323,
+      "productive_time": 156,
+      "productivity_score": 79,
+      "tasks_completed": 8,
+      "focus_sessions": 1,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-01",
+      "study_time": 228,
+      "productive_time": 228,
+      "productivity_score": 100,
+      "tasks_completed": 3,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-09-30",
+      "study_time": 291,
+      "productive_time": 225,
+      "productivity_score": 90,
+      "tasks_completed": 3,
+      "focus_sessions": 2,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-06",
+      "study_time": 298,
+      "productive_time": 210,
+      "productivity_score": 88,
+      "tasks_completed": 10,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-05",
+      "study_time": 217,
+      "productive_time": 217,
+      "productivity_score": 100,
+      "tasks_completed": 6,
+      "focus_sessions": 2,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-04",
+      "study_time": 273,
+      "productive_time": 237,
+      "productivity_score": 94,
+      "tasks_completed": 6,
+      "focus_sessions": 4,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-03",
+      "study_time": 223,
+      "productive_time": 212,
+      "productivity_score": 98,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-02",
+      "study_time": 224,
+      "productive_time": 177,
+      "productivity_score": 91,
+      "tasks_completed": 7,
+      "focus_sessions": 3,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-01",
+      "study_time": 317,
+      "productive_time": 267,
+      "productivity_score": 93,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-09-30",
+      "study_time": 352,
+      "productive_time": 218,
+      "productivity_score": 84,
+      "tasks_completed": 8,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-06",
+      "study_time": 294,
+      "productive_time": 286,
+      "productivity_score": 98,
+      "tasks_completed": 4,
+      "focus_sessions": 4,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-05",
+      "study_time": 141,
+      "productive_time": 132,
+      "productivity_score": 97,
+      "tasks_completed": 3,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-04",
+      "study_time": 229,
+      "productive_time": 78,
+      "productivity_score": 73,
+      "tasks_completed": 8,
+      "focus_sessions": 1,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-03",
+      "study_time": 195,
+      "productive_time": 195,
+      "productivity_score": 100,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-02",
+      "study_time": 299,
+      "productive_time": 247,
+      "productivity_score": 93,
+      "tasks_completed": 10,
+      "focus_sessions": 5,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-01",
+      "study_time": 349,
+      "productive_time": 150,
+      "productivity_score": 77,
+      "tasks_completed": 3,
+      "focus_sessions": 4,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-09-30",
+      "study_time": 298,
+      "productive_time": 298,
+      "productivity_score": 100,
+      "tasks_completed": 4,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-06",
+      "study_time": 128,
+      "productive_time": 128,
+      "productivity_score": 100,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-05",
+      "study_time": 341,
+      "productive_time": 162,
+      "productivity_score": 79,
+      "tasks_completed": 4,
+      "focus_sessions": 5,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-04",
+      "study_time": 299,
+      "productive_time": 228,
+      "productivity_score": 90,
+      "tasks_completed": 6,
+      "focus_sessions": 1,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-03",
+      "study_time": 359,
+      "productive_time": 359,
+      "productivity_score": 100,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-02",
+      "study_time": 282,
+      "productive_time": 93,
+      "productivity_score": 73,
+      "tasks_completed": 10,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-01",
+      "study_time": 195,
+      "productive_time": 114,
+      "productivity_score": 83,
+      "tasks_completed": 10,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-09-30",
+      "study_time": 207,
+      "productive_time": 207,
+      "productivity_score": 100,
+      "tasks_completed": 10,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-06",
+      "study_time": 272,
+      "productive_time": 85,
+      "productivity_score": 72,
+      "tasks_completed": 3,
+      "focus_sessions": 5,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-05",
+      "study_time": 165,
+      "productive_time": 165,
+      "productivity_score": 100,
+      "tasks_completed": 5,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-04",
+      "study_time": 338,
+      "productive_time": 282,
+      "productivity_score": 93,
+      "tasks_completed": 8,
+      "focus_sessions": 1,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-03",
+      "study_time": 148,
+      "productive_time": 93,
+      "productivity_score": 85,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-02",
+      "study_time": 288,
+      "productive_time": 288,
+      "productivity_score": 100,
+      "tasks_completed": 3,
+      "focus_sessions": 1,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-01",
+      "study_time": 131,
+      "productive_time": 99,
+      "productivity_score": 90,
+      "tasks_completed": 8,
+      "focus_sessions": 3,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-09-30",
+      "study_time": 340,
+      "productive_time": 340,
+      "productivity_score": 100,
+      "tasks_completed": 4,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-06",
+      "study_time": 194,
+      "productive_time": 194,
+      "productivity_score": 100,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-05",
+      "study_time": 135,
+      "productive_time": 135,
+      "productivity_score": 100,
+      "tasks_completed": 10,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-04",
+      "study_time": 229,
+      "productive_time": 200,
+      "productivity_score": 94,
+      "tasks_completed": 5,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-03",
+      "study_time": 314,
+      "productive_time": 170,
+      "productivity_score": 81,
+      "tasks_completed": 8,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-02",
+      "study_time": 293,
+      "productive_time": 110,
+      "productivity_score": 75,
+      "tasks_completed": 4,
+      "focus_sessions": 1,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-01",
+      "study_time": 261,
+      "productive_time": 249,
+      "productivity_score": 98,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-09-30",
+      "study_time": 337,
+      "productive_time": 97,
+      "productivity_score": 71,
+      "tasks_completed": 6,
+      "focus_sessions": 5,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-06",
+      "study_time": 285,
+      "productive_time": 285,
+      "productivity_score": 100,
+      "tasks_completed": 10,
+      "focus_sessions": 5,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-05",
+      "study_time": 310,
+      "productive_time": 286,
+      "productivity_score": 96,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-04",
+      "study_time": 153,
+      "productive_time": 114,
+      "productivity_score": 89,
+      "tasks_completed": 4,
+      "focus_sessions": 4,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-03",
+      "study_time": 130,
+      "productive_time": 108,
+      "productivity_score": 93,
+      "tasks_completed": 8,
+      "focus_sessions": 3,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-02",
+      "study_time": 226,
+      "productive_time": 167,
+      "productivity_score": 89,
+      "tasks_completed": 5,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-01",
+      "study_time": 139,
+      "productive_time": 81,
+      "productivity_score": 83,
+      "tasks_completed": 10,
+      "focus_sessions": 5,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-09-30",
+      "study_time": 208,
+      "productive_time": 208,
+      "productivity_score": 100,
+      "tasks_completed": 3,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-06",
+      "study_time": 256,
+      "productive_time": 171,
+      "productivity_score": 86,
+      "tasks_completed": 3,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-05",
+      "study_time": 224,
+      "productive_time": 109,
+      "productivity_score": 79,
+      "tasks_completed": 5,
+      "focus_sessions": 3,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-04",
+      "study_time": 148,
+      "productive_time": 108,
+      "productivity_score": 89,
+      "tasks_completed": 3,
+      "focus_sessions": 3,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-03",
+      "study_time": 356,
+      "productive_time": 183,
+      "productivity_score": 80,
+      "tasks_completed": 8,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-02",
+      "study_time": 178,
+      "productive_time": 79,
+      "productivity_score": 77,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-01",
+      "study_time": 258,
+      "productive_time": 224,
+      "productivity_score": 94,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-09-30",
+      "study_time": 193,
+      "productive_time": 193,
+      "productivity_score": 100,
+      "tasks_completed": 7,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-06",
+      "study_time": 222,
+      "productive_time": 130,
+      "productivity_score": 83,
+      "tasks_completed": 9,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-05",
+      "study_time": 227,
+      "productive_time": 100,
+      "productivity_score": 77,
+      "tasks_completed": 5,
+      "focus_sessions": 3,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-04",
+      "study_time": 167,
+      "productive_time": 153,
+      "productivity_score": 96,
+      "tasks_completed": 4,
+      "focus_sessions": 4,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-03",
+      "study_time": 277,
+      "productive_time": 277,
+      "productivity_score": 100,
+      "tasks_completed": 7,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-02",
+      "study_time": 353,
+      "productive_time": 275,
+      "productivity_score": 91,
+      "tasks_completed": 4,
+      "focus_sessions": 2,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-01",
+      "study_time": 260,
+      "productive_time": 238,
+      "productivity_score": 96,
+      "tasks_completed": 5,
+      "focus_sessions": 1,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-09-30",
+      "study_time": 129,
+      "productive_time": 109,
+      "productivity_score": 93,
+      "tasks_completed": 3,
+      "focus_sessions": 4,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-06",
+      "study_time": 191,
+      "productive_time": 169,
+      "productivity_score": 95,
+      "tasks_completed": 7,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-05",
+      "study_time": 300,
+      "productive_time": 300,
+      "productivity_score": 100,
+      "tasks_completed": 10,
+      "focus_sessions": 3,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-04",
+      "study_time": 355,
+      "productive_time": 343,
+      "productivity_score": 98,
+      "tasks_completed": 10,
+      "focus_sessions": 5,
+      "breaks_taken": 2
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-03",
+      "study_time": 164,
+      "productive_time": 154,
+      "productivity_score": 97,
+      "tasks_completed": 5,
+      "focus_sessions": 4,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-02",
+      "study_time": 271,
+      "productive_time": 233,
+      "productivity_score": 94,
+      "tasks_completed": 5,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-01",
+      "study_time": 323,
+      "productive_time": 111,
+      "productivity_score": 73,
+      "tasks_completed": 8,
+      "focus_sessions": 3,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-09-30",
+      "study_time": 218,
+      "productive_time": 218,
+      "productivity_score": 100,
+      "tasks_completed": 4,
+      "focus_sessions": 4,
+      "breaks_taken": 1
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-14",
+      "study_time": 150,
+      "productive_time": 268,
+      "productivity_score": 78,
+      "tasks_completed": 10,
+      "focus_sessions": 1,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-13",
+      "study_time": 337,
+      "productive_time": 116,
+      "productivity_score": 66,
+      "tasks_completed": 8,
+      "focus_sessions": 1,
+      "breaks_taken": 5
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-12",
+      "study_time": 242,
+      "productive_time": 135,
+      "productivity_score": 70,
+      "tasks_completed": 6,
+      "focus_sessions": 4,
+      "breaks_taken": 6
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-11",
+      "study_time": 329,
+      "productive_time": 127,
+      "productivity_score": 75,
+      "tasks_completed": 5,
+      "focus_sessions": 2,
+      "breaks_taken": 7
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-10",
+      "study_time": 173,
+      "productive_time": 174,
+      "productivity_score": 68,
+      "tasks_completed": 6,
+      "focus_sessions": 1,
+      "breaks_taken": 4
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-09",
+      "study_time": 211,
+      "productive_time": 207,
+      "productivity_score": 85,
+      "tasks_completed": 6,
+      "focus_sessions": 4,
+      "breaks_taken": 3
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-08",
+      "study_time": 187,
+      "productive_time": 192,
+      "productivity_score": 91,
+      "tasks_completed": 5,
+      "focus_sessions": 3,
+      "breaks_taken": 6
+    }
+  ],
+  "coding_progress": [
+    {
+      "student_id": "STU1759147205104",
+      "platform": "LeetCode",
+      "problems_solved": 139,
+      "easy": 84,
+      "medium": 24,
+      "hard": 23,
+      "current_streak": 19,
+      "global_rank": 14380
+    },
+    {
+      "student_id": "STU1759147205104",
+      "platform": "CodeChef",
+      "problems_solved": 90,
+      "rating": "1★",
+      "contests_joined": 7,
+      "global_rank": 11523
+    },
+    {
+      "student_id": "STU1759147205104",
+      "platform": "HackerRank",
+      "problems_solved": 154,
+      "badges": 8,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU1759152550624",
+      "platform": "LeetCode",
+      "problems_solved": 181,
+      "easy": 45,
+      "medium": 76,
+      "hard": 26,
+      "current_streak": 39,
+      "global_rank": 4447
+    },
+    {
+      "student_id": "STU1759152550624",
+      "platform": "CodeChef",
+      "problems_solved": 97,
+      "rating": "2★",
+      "contests_joined": 9,
+      "global_rank": 5249
+    },
+    {
+      "student_id": "STU1759152550624",
+      "platform": "HackerRank",
+      "problems_solved": 76,
+      "badges": 10,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU1759331845435",
+      "platform": "LeetCode",
+      "problems_solved": 245,
+      "easy": 30,
+      "medium": 139,
+      "hard": 34,
+      "current_streak": 40,
+      "global_rank": 11752
+    },
+    {
+      "student_id": "STU1759331845435",
+      "platform": "CodeChef",
+      "problems_solved": 54,
+      "rating": "2★",
+      "contests_joined": 7,
+      "global_rank": 10070
+    },
+    {
+      "student_id": "STU1759331845435",
+      "platform": "HackerRank",
+      "problems_solved": 142,
+      "badges": 11,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU1759501254274",
+      "platform": "LeetCode",
+      "problems_solved": 219,
+      "easy": 117,
+      "medium": 100,
+      "hard": 10,
+      "current_streak": 39,
+      "global_rank": 12449
+    },
+    {
+      "student_id": "STU1759501254274",
+      "platform": "CodeChef",
+      "problems_solved": 76,
+      "rating": "3★",
+      "contests_joined": 14,
+      "global_rank": 3770
+    },
+    {
+      "student_id": "STU1759501254274",
+      "platform": "HackerRank",
+      "problems_solved": 119,
+      "badges": 5,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "platform": "LeetCode",
+      "problems_solved": 50,
+      "easy": 20,
+      "medium": 20,
+      "hard": 5,
+      "current_streak": 5,
+      "global_rank": 1000
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "platform": "CodeChef",
+      "problems_solved": 20,
+      "rating": "1★",
+      "contests_joined": 5,
+      "global_rank": 2000
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "platform": "HackerRank",
+      "problems_solved": 30,
+      "badges": 5,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "platform": "LeetCode",
+      "problems_solved": 51,
+      "easy": 21,
+      "medium": 21,
+      "hard": 6,
+      "current_streak": 6,
+      "global_rank": 1013
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "platform": "CodeChef",
+      "problems_solved": 21,
+      "rating": "2★",
+      "contests_joined": 6,
+      "global_rank": 2017
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "platform": "HackerRank",
+      "problems_solved": 31,
+      "badges": 6,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "platform": "LeetCode",
+      "problems_solved": 52,
+      "easy": 22,
+      "medium": 22,
+      "hard": 7,
+      "current_streak": 7,
+      "global_rank": 1026
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "platform": "CodeChef",
+      "problems_solved": 22,
+      "rating": "3★",
+      "contests_joined": 7,
+      "global_rank": 2034
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "platform": "HackerRank",
+      "problems_solved": 32,
+      "badges": 7,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "platform": "LeetCode",
+      "problems_solved": 53,
+      "easy": 23,
+      "medium": 23,
+      "hard": 8,
+      "current_streak": 8,
+      "global_rank": 1039
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "platform": "CodeChef",
+      "problems_solved": 23,
+      "rating": "4★",
+      "contests_joined": 8,
+      "global_rank": 2051
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "platform": "HackerRank",
+      "problems_solved": 33,
+      "badges": 8,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "platform": "LeetCode",
+      "problems_solved": 54,
+      "easy": 24,
+      "medium": 24,
+      "hard": 9,
+      "current_streak": 9,
+      "global_rank": 1052
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "platform": "CodeChef",
+      "problems_solved": 24,
+      "rating": "1★",
+      "contests_joined": 9,
+      "global_rank": 2068
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "platform": "HackerRank",
+      "problems_solved": 34,
+      "badges": 9,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "platform": "LeetCode",
+      "problems_solved": 55,
+      "easy": 25,
+      "medium": 25,
+      "hard": 10,
+      "current_streak": 10,
+      "global_rank": 1065
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "platform": "CodeChef",
+      "problems_solved": 25,
+      "rating": "2★",
+      "contests_joined": 10,
+      "global_rank": 2085
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "platform": "HackerRank",
+      "problems_solved": 35,
+      "badges": 10,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "platform": "LeetCode",
+      "problems_solved": 56,
+      "easy": 26,
+      "medium": 26,
+      "hard": 11,
+      "current_streak": 11,
+      "global_rank": 1078
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "platform": "CodeChef",
+      "problems_solved": 26,
+      "rating": "3★",
+      "contests_joined": 11,
+      "global_rank": 2102
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "platform": "HackerRank",
+      "problems_solved": 36,
+      "badges": 11,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "platform": "LeetCode",
+      "problems_solved": 57,
+      "easy": 27,
+      "medium": 27,
+      "hard": 12,
+      "current_streak": 12,
+      "global_rank": 1091
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "platform": "CodeChef",
+      "problems_solved": 27,
+      "rating": "4★",
+      "contests_joined": 12,
+      "global_rank": 2119
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "platform": "HackerRank",
+      "problems_solved": 37,
+      "badges": 12,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "platform": "LeetCode",
+      "problems_solved": 58,
+      "easy": 28,
+      "medium": 28,
+      "hard": 13,
+      "current_streak": 13,
+      "global_rank": 1104
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "platform": "CodeChef",
+      "problems_solved": 28,
+      "rating": "1★",
+      "contests_joined": 13,
+      "global_rank": 2136
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "platform": "HackerRank",
+      "problems_solved": 38,
+      "badges": 13,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "platform": "LeetCode",
+      "problems_solved": 50,
+      "easy": 20,
+      "medium": 20,
+      "hard": 5,
+      "current_streak": 5,
+      "global_rank": 1000
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "platform": "CodeChef",
+      "problems_solved": 20,
+      "rating": "1★",
+      "contests_joined": 5,
+      "global_rank": 2000
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "platform": "HackerRank",
+      "problems_solved": 30,
+      "badges": 5,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "platform": "LeetCode",
+      "problems_solved": 51,
+      "easy": 21,
+      "medium": 21,
+      "hard": 6,
+      "current_streak": 6,
+      "global_rank": 1013
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "platform": "CodeChef",
+      "problems_solved": 21,
+      "rating": "2★",
+      "contests_joined": 6,
+      "global_rank": 2017
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "platform": "HackerRank",
+      "problems_solved": 31,
+      "badges": 6,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "platform": "LeetCode",
+      "problems_solved": 52,
+      "easy": 22,
+      "medium": 22,
+      "hard": 7,
+      "current_streak": 7,
+      "global_rank": 1026
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "platform": "CodeChef",
+      "problems_solved": 22,
+      "rating": "3★",
+      "contests_joined": 7,
+      "global_rank": 2034
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "platform": "HackerRank",
+      "problems_solved": 32,
+      "badges": 7,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "platform": "LeetCode",
+      "problems_solved": 53,
+      "easy": 23,
+      "medium": 23,
+      "hard": 8,
+      "current_streak": 8,
+      "global_rank": 1039
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "platform": "CodeChef",
+      "problems_solved": 23,
+      "rating": "4★",
+      "contests_joined": 8,
+      "global_rank": 2051
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "platform": "HackerRank",
+      "problems_solved": 33,
+      "badges": 8,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "platform": "LeetCode",
+      "problems_solved": 54,
+      "easy": 24,
+      "medium": 24,
+      "hard": 9,
+      "current_streak": 9,
+      "global_rank": 1052
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "platform": "CodeChef",
+      "problems_solved": 24,
+      "rating": "1★",
+      "contests_joined": 9,
+      "global_rank": 2068
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "platform": "HackerRank",
+      "problems_solved": 34,
+      "badges": 9,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "platform": "LeetCode",
+      "problems_solved": 55,
+      "easy": 25,
+      "medium": 25,
+      "hard": 10,
+      "current_streak": 10,
+      "global_rank": 1065
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "platform": "CodeChef",
+      "problems_solved": 25,
+      "rating": "2★",
+      "contests_joined": 10,
+      "global_rank": 2085
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "platform": "HackerRank",
+      "problems_solved": 35,
+      "badges": 10,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "platform": "LeetCode",
+      "problems_solved": 56,
+      "easy": 26,
+      "medium": 26,
+      "hard": 11,
+      "current_streak": 11,
+      "global_rank": 1078
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "platform": "CodeChef",
+      "problems_solved": 26,
+      "rating": "3★",
+      "contests_joined": 11,
+      "global_rank": 2102
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "platform": "HackerRank",
+      "problems_solved": 36,
+      "badges": 11,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "platform": "LeetCode",
+      "problems_solved": 57,
+      "easy": 27,
+      "medium": 27,
+      "hard": 12,
+      "current_streak": 12,
+      "global_rank": 1091
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "platform": "CodeChef",
+      "problems_solved": 27,
+      "rating": "4★",
+      "contests_joined": 12,
+      "global_rank": 2119
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "platform": "HackerRank",
+      "problems_solved": 37,
+      "badges": 12,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "platform": "LeetCode",
+      "problems_solved": 58,
+      "easy": 28,
+      "medium": 28,
+      "hard": 13,
+      "current_streak": 13,
+      "global_rank": 1104
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "platform": "CodeChef",
+      "problems_solved": 28,
+      "rating": "1★",
+      "contests_joined": 13,
+      "global_rank": 2136
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "platform": "HackerRank",
+      "problems_solved": 38,
+      "badges": 13,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    },
+    {
+      "student_id": "STU1763124701342",
+      "platform": "LeetCode",
+      "problems_solved": 85,
+      "easy": 114,
+      "medium": 46,
+      "hard": 23,
+      "current_streak": 48,
+      "global_rank": 1417
+    },
+    {
+      "student_id": "STU1763124701342",
+      "platform": "CodeChef",
+      "problems_solved": 59,
+      "rating": "3★",
+      "contests_joined": 10,
+      "global_rank": 9863
+    },
+    {
+      "student_id": "STU1763124701342",
+      "platform": "HackerRank",
+      "problems_solved": 125,
+      "badges": 9,
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Problem Solving"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "student_id": "STU1759147205104",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 38,
+      "status": "Completed",
+      "start_date": "2025-08-28",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU1759147205104",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 58,
+      "status": "Completed",
+      "start_date": "2025-07-02",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU1759147205104",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 49,
+      "status": "In Progress",
+      "start_date": "2025-08-01",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU1759147205104",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 62,
+      "status": "In Progress",
+      "start_date": "2025-08-06",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU1759152550624",
+      "course_id": "CRS1",
+      "course_name": "Marketing",
+      "category": "Business Administration",
+      "progress": 73,
+      "status": "Completed",
+      "start_date": "2025-08-27",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759152550624",
+      "course_id": "CRS2",
+      "course_name": "Finance",
+      "category": "Business Administration",
+      "progress": 41,
+      "status": "Completed",
+      "start_date": "2025-08-19",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759152550624",
+      "course_id": "CRS3",
+      "course_name": "Management",
+      "category": "Business Administration",
+      "progress": 72,
+      "status": "In Progress",
+      "start_date": "2025-07-29",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759152550624",
+      "course_id": "CRS4",
+      "course_name": "Economics",
+      "category": "Business Administration",
+      "progress": 43,
+      "status": "In Progress",
+      "start_date": "2025-09-01",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759331845435",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 39,
+      "status": "Completed",
+      "start_date": "2025-08-25",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU1759331845435",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 33,
+      "status": "Completed",
+      "start_date": "2025-07-28",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759331845435",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 41,
+      "status": "In Progress",
+      "start_date": "2025-07-17",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759331845435",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 60,
+      "status": "In Progress",
+      "start_date": "2025-07-20",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU1759501254274",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 58,
+      "status": "Completed",
+      "start_date": "2025-10-02",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759501254274",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 76,
+      "status": "Completed",
+      "start_date": "2025-09-30",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU1759501254274",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 70,
+      "status": "In Progress",
+      "start_date": "2025-09-05",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU1759501254274",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 67,
+      "status": "In Progress",
+      "start_date": "2025-09-20",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 72,
+      "status": "Completed",
+      "start_date": "2025-09-16",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 74,
+      "status": "Completed",
+      "start_date": "2025-09-02",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 79,
+      "status": "In Progress",
+      "start_date": "2025-08-26",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 69,
+      "status": "In Progress",
+      "start_date": "2025-08-28",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 47,
+      "status": "Completed",
+      "start_date": "2025-07-24",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 49,
+      "status": "Completed",
+      "start_date": "2025-10-04",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 43,
+      "status": "In Progress",
+      "start_date": "2025-09-17",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 59,
+      "status": "In Progress",
+      "start_date": "2025-08-09",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 77,
+      "status": "Completed",
+      "start_date": "2025-09-06",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 40,
+      "status": "Completed",
+      "start_date": "2025-08-17",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 52,
+      "status": "In Progress",
+      "start_date": "2025-09-17",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 59,
+      "status": "In Progress",
+      "start_date": "2025-08-07",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 30,
+      "status": "Completed",
+      "start_date": "2025-07-26",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 44,
+      "status": "Completed",
+      "start_date": "2025-09-09",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 62,
+      "status": "In Progress",
+      "start_date": "2025-09-09",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 39,
+      "status": "In Progress",
+      "start_date": "2025-09-20",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 76,
+      "status": "Completed",
+      "start_date": "2025-07-10",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 76,
+      "status": "Completed",
+      "start_date": "2025-07-21",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 35,
+      "status": "In Progress",
+      "start_date": "2025-08-12",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 36,
+      "status": "In Progress",
+      "start_date": "2025-09-15",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 36,
+      "status": "Completed",
+      "start_date": "2025-08-24",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 74,
+      "status": "Completed",
+      "start_date": "2025-07-26",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 57,
+      "status": "In Progress",
+      "start_date": "2025-09-23",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 67,
+      "status": "In Progress",
+      "start_date": "2025-09-27",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 65,
+      "status": "Completed",
+      "start_date": "2025-07-17",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 69,
+      "status": "Completed",
+      "start_date": "2025-09-21",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 56,
+      "status": "In Progress",
+      "start_date": "2025-09-11",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 46,
+      "status": "In Progress",
+      "start_date": "2025-08-29",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 72,
+      "status": "Completed",
+      "start_date": "2025-08-25",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 53,
+      "status": "Completed",
+      "start_date": "2025-09-13",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 42,
+      "status": "In Progress",
+      "start_date": "2025-10-01",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 33,
+      "status": "In Progress",
+      "start_date": "2025-08-20",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 30,
+      "status": "Completed",
+      "start_date": "2025-08-25",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 61,
+      "status": "Completed",
+      "start_date": "2025-07-18",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 44,
+      "status": "In Progress",
+      "start_date": "2025-07-26",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 74,
+      "status": "In Progress",
+      "start_date": "2025-07-16",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 48,
+      "status": "Completed",
+      "start_date": "2025-08-27",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 31,
+      "status": "Completed",
+      "start_date": "2025-08-05",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 48,
+      "status": "In Progress",
+      "start_date": "2025-07-12",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 43,
+      "status": "In Progress",
+      "start_date": "2025-08-07",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 50,
+      "status": "Completed",
+      "start_date": "2025-08-01",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 68,
+      "status": "Completed",
+      "start_date": "2025-07-20",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 42,
+      "status": "In Progress",
+      "start_date": "2025-10-02",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 70,
+      "status": "In Progress",
+      "start_date": "2025-07-24",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 55,
+      "status": "Completed",
+      "start_date": "2025-08-17",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 67,
+      "status": "Completed",
+      "start_date": "2025-09-11",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 34,
+      "status": "In Progress",
+      "start_date": "2025-09-24",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 68,
+      "status": "In Progress",
+      "start_date": "2025-08-14",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 34,
+      "status": "Completed",
+      "start_date": "2025-07-23",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 46,
+      "status": "Completed",
+      "start_date": "2025-08-29",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 59,
+      "status": "In Progress",
+      "start_date": "2025-08-06",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 70,
+      "status": "In Progress",
+      "start_date": "2025-07-18",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 31,
+      "status": "Completed",
+      "start_date": "2025-09-08",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 62,
+      "status": "Completed",
+      "start_date": "2025-07-13",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 53,
+      "status": "In Progress",
+      "start_date": "2025-07-29",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 67,
+      "status": "In Progress",
+      "start_date": "2025-08-25",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 62,
+      "status": "Completed",
+      "start_date": "2025-08-25",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 45,
+      "status": "Completed",
+      "start_date": "2025-07-28",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 59,
+      "status": "In Progress",
+      "start_date": "2025-09-27",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 69,
+      "status": "In Progress",
+      "start_date": "2025-08-17",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 58,
+      "status": "Completed",
+      "start_date": "2025-09-29",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 69,
+      "status": "Completed",
+      "start_date": "2025-07-18",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 31,
+      "status": "In Progress",
+      "start_date": "2025-07-09",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 60,
+      "status": "In Progress",
+      "start_date": "2025-07-24",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "course_id": "CRS1",
+      "course_name": "Python Programming",
+      "category": "Data Science",
+      "progress": 76,
+      "status": "Completed",
+      "start_date": "2025-07-10",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "course_id": "CRS2",
+      "course_name": "Statistics",
+      "category": "Data Science",
+      "progress": 37,
+      "status": "Completed",
+      "start_date": "2025-08-22",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "course_id": "CRS3",
+      "course_name": "Machine Learning",
+      "category": "Data Science",
+      "progress": 35,
+      "status": "In Progress",
+      "start_date": "2025-09-02",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "course_id": "CRS4",
+      "course_name": "Data Visualization",
+      "category": "Data Science",
+      "progress": 68,
+      "status": "In Progress",
+      "start_date": "2025-08-10",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 42,
+      "status": "Completed",
+      "start_date": "2025-09-26",
+      "instructor": "Dr. Kumar"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 53,
+      "status": "Completed",
+      "start_date": "2025-09-14",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 39,
+      "status": "In Progress",
+      "start_date": "2025-08-20",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 65,
+      "status": "In Progress",
+      "start_date": "2025-08-16",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU1763124701342",
+      "course_id": "CRS1",
+      "course_name": "Data Structures",
+      "category": "Computer Science",
+      "progress": 42,
+      "status": "Completed",
+      "start_date": "2025-10-04",
+      "instructor": "Dr. Sharma"
+    },
+    {
+      "student_id": "STU1763124701342",
+      "course_id": "CRS2",
+      "course_name": "Algorithms",
+      "category": "Computer Science",
+      "progress": 67,
+      "status": "Completed",
+      "start_date": "2025-10-14",
+      "instructor": "Dr. Reddy"
+    },
+    {
+      "student_id": "STU1763124701342",
+      "course_id": "CRS3",
+      "course_name": "Web Development",
+      "category": "Computer Science",
+      "progress": 39,
+      "status": "In Progress",
+      "start_date": "2025-09-01",
+      "instructor": "Dr. Patel"
+    },
+    {
+      "student_id": "STU1763124701342",
+      "course_id": "CRS4",
+      "course_name": "Database Systems",
+      "category": "Computer Science",
+      "progress": 62,
+      "status": "In Progress",
+      "start_date": "2025-10-09",
+      "instructor": "Dr. Reddy"
+    }
+  ],
+  "mobile_usage": [
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-29",
+      "total_screen_time": 69,
+      "productive_apps": {
+        "VS Code": 58,
+        "LeetCode": 49,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 16,
+        "Instagram": 23,
+        "YouTube": 39
+      },
+      "productivity_score": 74
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-28",
+      "total_screen_time": 186,
+      "productive_apps": {
+        "VS Code": 79,
+        "LeetCode": 57,
+        "Coursera": 35
+      },
+      "social_apps": {
+        "WhatsApp": 44,
+        "Instagram": 23,
+        "YouTube": 52
+      },
+      "productivity_score": 76
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-27",
+      "total_screen_time": 182,
+      "productive_apps": {
+        "VS Code": 48,
+        "LeetCode": 49,
+        "Coursera": 33
+      },
+      "social_apps": {
+        "WhatsApp": 35,
+        "Instagram": 12,
+        "YouTube": 18
+      },
+      "productivity_score": 82
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-26",
+      "total_screen_time": 69,
+      "productive_apps": {
+        "VS Code": 70,
+        "LeetCode": 41,
+        "Coursera": 17
+      },
+      "social_apps": {
+        "WhatsApp": 19,
+        "Instagram": 29,
+        "YouTube": 36
+      },
+      "productivity_score": 84
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-25",
+      "total_screen_time": 234,
+      "productive_apps": {
+        "VS Code": 53,
+        "LeetCode": 52,
+        "Coursera": 19
+      },
+      "social_apps": {
+        "WhatsApp": 22,
+        "Instagram": 20,
+        "YouTube": 58
+      },
+      "productivity_score": 95
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-24",
+      "total_screen_time": 145,
+      "productive_apps": {
+        "VS Code": 36,
+        "LeetCode": 22,
+        "Coursera": 32
+      },
+      "social_apps": {
+        "WhatsApp": 11,
+        "Instagram": 12,
+        "YouTube": 11
+      },
+      "productivity_score": 84
+    },
+    {
+      "student_id": "STU1759147205104",
+      "date": "2025-09-23",
+      "total_screen_time": 147,
+      "productive_apps": {
+        "VS Code": 62,
+        "LeetCode": 26,
+        "Coursera": 39
+      },
+      "social_apps": {
+        "WhatsApp": 42,
+        "Instagram": 20,
+        "YouTube": 53
+      },
+      "productivity_score": 71
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-29",
+      "total_screen_time": 173,
+      "productive_apps": {
+        "VS Code": 52,
+        "LeetCode": 50,
+        "Coursera": 37
+      },
+      "social_apps": {
+        "WhatsApp": 44,
+        "Instagram": 23,
+        "YouTube": 34
+      },
+      "productivity_score": 75
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-28",
+      "total_screen_time": 166,
+      "productive_apps": {
+        "VS Code": 29,
+        "LeetCode": 17,
+        "Coursera": 39
+      },
+      "social_apps": {
+        "WhatsApp": 41,
+        "Instagram": 20,
+        "YouTube": 37
+      },
+      "productivity_score": 88
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-27",
+      "total_screen_time": 62,
+      "productive_apps": {
+        "VS Code": 39,
+        "LeetCode": 19,
+        "Coursera": 24
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 11,
+        "YouTube": 11
+      },
+      "productivity_score": 83
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-26",
+      "total_screen_time": 128,
+      "productive_apps": {
+        "VS Code": 43,
+        "LeetCode": 26,
+        "Coursera": 12
+      },
+      "social_apps": {
+        "WhatsApp": 21,
+        "Instagram": 8,
+        "YouTube": 39
+      },
+      "productivity_score": 96
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-25",
+      "total_screen_time": 148,
+      "productive_apps": {
+        "VS Code": 40,
+        "LeetCode": 44,
+        "Coursera": 34
+      },
+      "social_apps": {
+        "WhatsApp": 21,
+        "Instagram": 33,
+        "YouTube": 37
+      },
+      "productivity_score": 76
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-24",
+      "total_screen_time": 239,
+      "productive_apps": {
+        "VS Code": 75,
+        "LeetCode": 42,
+        "Coursera": 33
+      },
+      "social_apps": {
+        "WhatsApp": 11,
+        "Instagram": 31,
+        "YouTube": 43
+      },
+      "productivity_score": 65
+    },
+    {
+      "student_id": "STU1759152550624",
+      "date": "2025-09-23",
+      "total_screen_time": 199,
+      "productive_apps": {
+        "VS Code": 45,
+        "LeetCode": 50,
+        "Coursera": 10
+      },
+      "social_apps": {
+        "WhatsApp": 23,
+        "Instagram": 33,
+        "YouTube": 24
+      },
+      "productivity_score": 72
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-10-01",
+      "total_screen_time": 85,
+      "productive_apps": {
+        "VS Code": 54,
+        "LeetCode": 51,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 47,
+        "Instagram": 5,
+        "YouTube": 21
+      },
+      "productivity_score": 94
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-30",
+      "total_screen_time": 169,
+      "productive_apps": {
+        "VS Code": 24,
+        "LeetCode": 37,
+        "Coursera": 36
+      },
+      "social_apps": {
+        "WhatsApp": 49,
+        "Instagram": 5,
+        "YouTube": 35
+      },
+      "productivity_score": 81
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-29",
+      "total_screen_time": 146,
+      "productive_apps": {
+        "VS Code": 35,
+        "LeetCode": 40,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 47,
+        "Instagram": 20,
+        "YouTube": 47
+      },
+      "productivity_score": 61
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-28",
+      "total_screen_time": 211,
+      "productive_apps": {
+        "VS Code": 39,
+        "LeetCode": 38,
+        "Coursera": 38
+      },
+      "social_apps": {
+        "WhatsApp": 47,
+        "Instagram": 13,
+        "YouTube": 42
+      },
+      "productivity_score": 93
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-27",
+      "total_screen_time": 175,
+      "productive_apps": {
+        "VS Code": 58,
+        "LeetCode": 53,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 16,
+        "Instagram": 31,
+        "YouTube": 27
+      },
+      "productivity_score": 75
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-26",
+      "total_screen_time": 86,
+      "productive_apps": {
+        "VS Code": 30,
+        "LeetCode": 38,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 27,
+        "Instagram": 16,
+        "YouTube": 16
+      },
+      "productivity_score": 97
+    },
+    {
+      "student_id": "STU1759331845435",
+      "date": "2025-09-25",
+      "total_screen_time": 201,
+      "productive_apps": {
+        "VS Code": 39,
+        "LeetCode": 55,
+        "Coursera": 20
+      },
+      "social_apps": {
+        "WhatsApp": 43,
+        "Instagram": 15,
+        "YouTube": 12
+      },
+      "productivity_score": 64
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-10-03",
+      "total_screen_time": 81,
+      "productive_apps": {
+        "VS Code": 77,
+        "LeetCode": 35,
+        "Coursera": 36
+      },
+      "social_apps": {
+        "WhatsApp": 20,
+        "Instagram": 22,
+        "YouTube": 55
+      },
+      "productivity_score": 85
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-10-02",
+      "total_screen_time": 200,
+      "productive_apps": {
+        "VS Code": 38,
+        "LeetCode": 26,
+        "Coursera": 11
+      },
+      "social_apps": {
+        "WhatsApp": 36,
+        "Instagram": 21,
+        "YouTube": 56
+      },
+      "productivity_score": 64
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-10-01",
+      "total_screen_time": 82,
+      "productive_apps": {
+        "VS Code": 79,
+        "LeetCode": 20,
+        "Coursera": 26
+      },
+      "social_apps": {
+        "WhatsApp": 20,
+        "Instagram": 11,
+        "YouTube": 52
+      },
+      "productivity_score": 75
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-30",
+      "total_screen_time": 115,
+      "productive_apps": {
+        "VS Code": 55,
+        "LeetCode": 20,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 22,
+        "Instagram": 16,
+        "YouTube": 31
+      },
+      "productivity_score": 74
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-29",
+      "total_screen_time": 233,
+      "productive_apps": {
+        "VS Code": 47,
+        "LeetCode": 44,
+        "Coursera": 35
+      },
+      "social_apps": {
+        "WhatsApp": 44,
+        "Instagram": 30,
+        "YouTube": 20
+      },
+      "productivity_score": 78
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-28",
+      "total_screen_time": 113,
+      "productive_apps": {
+        "VS Code": 68,
+        "LeetCode": 46,
+        "Coursera": 20
+      },
+      "social_apps": {
+        "WhatsApp": 24,
+        "Instagram": 14,
+        "YouTube": 22
+      },
+      "productivity_score": 71
+    },
+    {
+      "student_id": "STU1759501254274",
+      "date": "2025-09-27",
+      "total_screen_time": 193,
+      "productive_apps": {
+        "VS Code": 41,
+        "LeetCode": 44,
+        "Coursera": 29
+      },
+      "social_apps": {
+        "WhatsApp": 12,
+        "Instagram": 11,
+        "YouTube": 34
+      },
+      "productivity_score": 60
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-06",
+      "total_screen_time": 223,
+      "productive_apps": {
+        "VS Code": 67,
+        "LeetCode": 45,
+        "Coursera": 21
+      },
+      "social_apps": {
+        "WhatsApp": 43,
+        "Instagram": 14,
+        "YouTube": 22
+      },
+      "productivity_score": 93
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-05",
+      "total_screen_time": 80,
+      "productive_apps": {
+        "VS Code": 68,
+        "LeetCode": 45,
+        "Coursera": 22
+      },
+      "social_apps": {
+        "WhatsApp": 36,
+        "Instagram": 25,
+        "YouTube": 40
+      },
+      "productivity_score": 65
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-04",
+      "total_screen_time": 116,
+      "productive_apps": {
+        "VS Code": 16,
+        "LeetCode": 37,
+        "Coursera": 13
+      },
+      "social_apps": {
+        "WhatsApp": 10,
+        "Instagram": 27,
+        "YouTube": 16
+      },
+      "productivity_score": 78
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-03",
+      "total_screen_time": 134,
+      "productive_apps": {
+        "VS Code": 27,
+        "LeetCode": 31,
+        "Coursera": 19
+      },
+      "social_apps": {
+        "WhatsApp": 17,
+        "Instagram": 25,
+        "YouTube": 45
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-02",
+      "total_screen_time": 171,
+      "productive_apps": {
+        "VS Code": 45,
+        "LeetCode": 11,
+        "Coursera": 14
+      },
+      "social_apps": {
+        "WhatsApp": 6,
+        "Instagram": 18,
+        "YouTube": 36
+      },
+      "productivity_score": 83
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-10-01",
+      "total_screen_time": 239,
+      "productive_apps": {
+        "VS Code": 41,
+        "LeetCode": 44,
+        "Coursera": 24
+      },
+      "social_apps": {
+        "WhatsApp": 26,
+        "Instagram": 22,
+        "YouTube": 44
+      },
+      "productivity_score": 76
+    },
+    {
+      "student_id": "STU_UCI_1759755846026_0",
+      "date": "2025-09-30",
+      "total_screen_time": 236,
+      "productive_apps": {
+        "VS Code": 57,
+        "LeetCode": 18,
+        "Coursera": 34
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 29,
+        "YouTube": 9
+      },
+      "productivity_score": 83
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-06",
+      "total_screen_time": 200,
+      "productive_apps": {
+        "VS Code": 40,
+        "LeetCode": 43,
+        "Coursera": 5
+      },
+      "social_apps": {
+        "WhatsApp": 6,
+        "Instagram": 11,
+        "YouTube": 14
+      },
+      "productivity_score": 61
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-05",
+      "total_screen_time": 177,
+      "productive_apps": {
+        "VS Code": 42,
+        "LeetCode": 43,
+        "Coursera": 27
+      },
+      "social_apps": {
+        "WhatsApp": 30,
+        "Instagram": 32,
+        "YouTube": 6
+      },
+      "productivity_score": 95
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-04",
+      "total_screen_time": 108,
+      "productive_apps": {
+        "VS Code": 42,
+        "LeetCode": 13,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 29,
+        "Instagram": 28,
+        "YouTube": 47
+      },
+      "productivity_score": 92
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-03",
+      "total_screen_time": 154,
+      "productive_apps": {
+        "VS Code": 14,
+        "LeetCode": 31,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 18,
+        "Instagram": 23,
+        "YouTube": 30
+      },
+      "productivity_score": 92
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-02",
+      "total_screen_time": 112,
+      "productive_apps": {
+        "VS Code": 40,
+        "LeetCode": 33,
+        "Coursera": 13
+      },
+      "social_apps": {
+        "WhatsApp": 41,
+        "Instagram": 22,
+        "YouTube": 27
+      },
+      "productivity_score": 69
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-10-01",
+      "total_screen_time": 189,
+      "productive_apps": {
+        "VS Code": 12,
+        "LeetCode": 19,
+        "Coursera": 31
+      },
+      "social_apps": {
+        "WhatsApp": 24,
+        "Instagram": 8,
+        "YouTube": 27
+      },
+      "productivity_score": 82
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_1",
+      "date": "2025-09-30",
+      "total_screen_time": 142,
+      "productive_apps": {
+        "VS Code": 24,
+        "LeetCode": 37,
+        "Coursera": 33
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 30,
+        "YouTube": 22
+      },
+      "productivity_score": 96
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-06",
+      "total_screen_time": 236,
+      "productive_apps": {
+        "VS Code": 12,
+        "LeetCode": 10,
+        "Coursera": 14
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 7,
+        "YouTube": 31
+      },
+      "productivity_score": 69
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-05",
+      "total_screen_time": 131,
+      "productive_apps": {
+        "VS Code": 64,
+        "LeetCode": 40,
+        "Coursera": 20
+      },
+      "social_apps": {
+        "WhatsApp": 40,
+        "Instagram": 11,
+        "YouTube": 45
+      },
+      "productivity_score": 73
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-04",
+      "total_screen_time": 237,
+      "productive_apps": {
+        "VS Code": 32,
+        "LeetCode": 47,
+        "Coursera": 27
+      },
+      "social_apps": {
+        "WhatsApp": 35,
+        "Instagram": 30,
+        "YouTube": 47
+      },
+      "productivity_score": 82
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-03",
+      "total_screen_time": 122,
+      "productive_apps": {
+        "VS Code": 62,
+        "LeetCode": 40,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 33,
+        "Instagram": 31,
+        "YouTube": 45
+      },
+      "productivity_score": 71
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-02",
+      "total_screen_time": 196,
+      "productive_apps": {
+        "VS Code": 20,
+        "LeetCode": 46,
+        "Coursera": 27
+      },
+      "social_apps": {
+        "WhatsApp": 27,
+        "Instagram": 28,
+        "YouTube": 47
+      },
+      "productivity_score": 65
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-10-01",
+      "total_screen_time": 209,
+      "productive_apps": {
+        "VS Code": 60,
+        "LeetCode": 28,
+        "Coursera": 15
+      },
+      "social_apps": {
+        "WhatsApp": 25,
+        "Instagram": 12,
+        "YouTube": 9
+      },
+      "productivity_score": 88
+    },
+    {
+      "student_id": "STU_UCI_1759755846028_2",
+      "date": "2025-09-30",
+      "total_screen_time": 106,
+      "productive_apps": {
+        "VS Code": 31,
+        "LeetCode": 52,
+        "Coursera": 20
+      },
+      "social_apps": {
+        "WhatsApp": 17,
+        "Instagram": 20,
+        "YouTube": 11
+      },
+      "productivity_score": 60
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-06",
+      "total_screen_time": 109,
+      "productive_apps": {
+        "VS Code": 21,
+        "LeetCode": 28,
+        "Coursera": 22
+      },
+      "social_apps": {
+        "WhatsApp": 13,
+        "Instagram": 18,
+        "YouTube": 15
+      },
+      "productivity_score": 82
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-05",
+      "total_screen_time": 239,
+      "productive_apps": {
+        "VS Code": 60,
+        "LeetCode": 29,
+        "Coursera": 21
+      },
+      "social_apps": {
+        "WhatsApp": 10,
+        "Instagram": 28,
+        "YouTube": 14
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-04",
+      "total_screen_time": 137,
+      "productive_apps": {
+        "VS Code": 11,
+        "LeetCode": 45,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 21,
+        "Instagram": 21,
+        "YouTube": 30
+      },
+      "productivity_score": 74
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-03",
+      "total_screen_time": 187,
+      "productive_apps": {
+        "VS Code": 54,
+        "LeetCode": 51,
+        "Coursera": 17
+      },
+      "social_apps": {
+        "WhatsApp": 13,
+        "Instagram": 33,
+        "YouTube": 38
+      },
+      "productivity_score": 75
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-02",
+      "total_screen_time": 154,
+      "productive_apps": {
+        "VS Code": 15,
+        "LeetCode": 12,
+        "Coursera": 7
+      },
+      "social_apps": {
+        "WhatsApp": 5,
+        "Instagram": 27,
+        "YouTube": 28
+      },
+      "productivity_score": 77
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-10-01",
+      "total_screen_time": 102,
+      "productive_apps": {
+        "VS Code": 60,
+        "LeetCode": 14,
+        "Coursera": 8
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 9,
+        "YouTube": 46
+      },
+      "productivity_score": 92
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_3",
+      "date": "2025-09-30",
+      "total_screen_time": 205,
+      "productive_apps": {
+        "VS Code": 39,
+        "LeetCode": 16,
+        "Coursera": 26
+      },
+      "social_apps": {
+        "WhatsApp": 24,
+        "Instagram": 27,
+        "YouTube": 21
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-06",
+      "total_screen_time": 236,
+      "productive_apps": {
+        "VS Code": 46,
+        "LeetCode": 27,
+        "Coursera": 32
+      },
+      "social_apps": {
+        "WhatsApp": 42,
+        "Instagram": 23,
+        "YouTube": 7
+      },
+      "productivity_score": 82
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-05",
+      "total_screen_time": 198,
+      "productive_apps": {
+        "VS Code": 16,
+        "LeetCode": 11,
+        "Coursera": 32
+      },
+      "social_apps": {
+        "WhatsApp": 17,
+        "Instagram": 28,
+        "YouTube": 26
+      },
+      "productivity_score": 69
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-04",
+      "total_screen_time": 88,
+      "productive_apps": {
+        "VS Code": 31,
+        "LeetCode": 41,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 17,
+        "Instagram": 27,
+        "YouTube": 13
+      },
+      "productivity_score": 77
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-03",
+      "total_screen_time": 217,
+      "productive_apps": {
+        "VS Code": 53,
+        "LeetCode": 50,
+        "Coursera": 20
+      },
+      "social_apps": {
+        "WhatsApp": 24,
+        "Instagram": 30,
+        "YouTube": 36
+      },
+      "productivity_score": 90
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-02",
+      "total_screen_time": 97,
+      "productive_apps": {
+        "VS Code": 35,
+        "LeetCode": 34,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 26,
+        "Instagram": 34,
+        "YouTube": 14
+      },
+      "productivity_score": 80
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-10-01",
+      "total_screen_time": 132,
+      "productive_apps": {
+        "VS Code": 21,
+        "LeetCode": 34,
+        "Coursera": 20
+      },
+      "social_apps": {
+        "WhatsApp": 16,
+        "Instagram": 34,
+        "YouTube": 18
+      },
+      "productivity_score": 62
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_4",
+      "date": "2025-09-30",
+      "total_screen_time": 233,
+      "productive_apps": {
+        "VS Code": 46,
+        "LeetCode": 28,
+        "Coursera": 31
+      },
+      "social_apps": {
+        "WhatsApp": 19,
+        "Instagram": 23,
+        "YouTube": 5
+      },
+      "productivity_score": 65
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-06",
+      "total_screen_time": 211,
+      "productive_apps": {
+        "VS Code": 13,
+        "LeetCode": 33,
+        "Coursera": 11
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 11,
+        "YouTube": 13
+      },
+      "productivity_score": 73
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-05",
+      "total_screen_time": 73,
+      "productive_apps": {
+        "VS Code": 60,
+        "LeetCode": 41,
+        "Coursera": 26
+      },
+      "social_apps": {
+        "WhatsApp": 10,
+        "Instagram": 6,
+        "YouTube": 11
+      },
+      "productivity_score": 82
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-04",
+      "total_screen_time": 187,
+      "productive_apps": {
+        "VS Code": 50,
+        "LeetCode": 24,
+        "Coursera": 32
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 24,
+        "YouTube": 43
+      },
+      "productivity_score": 72
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-03",
+      "total_screen_time": 219,
+      "productive_apps": {
+        "VS Code": 19,
+        "LeetCode": 37,
+        "Coursera": 7
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 28,
+        "YouTube": 36
+      },
+      "productivity_score": 85
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-02",
+      "total_screen_time": 215,
+      "productive_apps": {
+        "VS Code": 39,
+        "LeetCode": 38,
+        "Coursera": 11
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 6,
+        "YouTube": 52
+      },
+      "productivity_score": 73
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-10-01",
+      "total_screen_time": 119,
+      "productive_apps": {
+        "VS Code": 36,
+        "LeetCode": 11,
+        "Coursera": 16
+      },
+      "social_apps": {
+        "WhatsApp": 27,
+        "Instagram": 10,
+        "YouTube": 11
+      },
+      "productivity_score": 68
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_5",
+      "date": "2025-09-30",
+      "total_screen_time": 134,
+      "productive_apps": {
+        "VS Code": 30,
+        "LeetCode": 26,
+        "Coursera": 6
+      },
+      "social_apps": {
+        "WhatsApp": 17,
+        "Instagram": 18,
+        "YouTube": 33
+      },
+      "productivity_score": 67
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-06",
+      "total_screen_time": 210,
+      "productive_apps": {
+        "VS Code": 36,
+        "LeetCode": 43,
+        "Coursera": 17
+      },
+      "social_apps": {
+        "WhatsApp": 5,
+        "Instagram": 14,
+        "YouTube": 15
+      },
+      "productivity_score": 93
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-05",
+      "total_screen_time": 158,
+      "productive_apps": {
+        "VS Code": 34,
+        "LeetCode": 27,
+        "Coursera": 23
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 13,
+        "YouTube": 32
+      },
+      "productivity_score": 60
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-04",
+      "total_screen_time": 238,
+      "productive_apps": {
+        "VS Code": 24,
+        "LeetCode": 11,
+        "Coursera": 25
+      },
+      "social_apps": {
+        "WhatsApp": 26,
+        "Instagram": 20,
+        "YouTube": 14
+      },
+      "productivity_score": 96
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-03",
+      "total_screen_time": 162,
+      "productive_apps": {
+        "VS Code": 53,
+        "LeetCode": 49,
+        "Coursera": 10
+      },
+      "social_apps": {
+        "WhatsApp": 15,
+        "Instagram": 31,
+        "YouTube": 45
+      },
+      "productivity_score": 84
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-02",
+      "total_screen_time": 82,
+      "productive_apps": {
+        "VS Code": 49,
+        "LeetCode": 28,
+        "Coursera": 20
+      },
+      "social_apps": {
+        "WhatsApp": 21,
+        "Instagram": 33,
+        "YouTube": 21
+      },
+      "productivity_score": 73
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-10-01",
+      "total_screen_time": 89,
+      "productive_apps": {
+        "VS Code": 34,
+        "LeetCode": 42,
+        "Coursera": 32
+      },
+      "social_apps": {
+        "WhatsApp": 43,
+        "Instagram": 32,
+        "YouTube": 7
+      },
+      "productivity_score": 72
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_6",
+      "date": "2025-09-30",
+      "total_screen_time": 235,
+      "productive_apps": {
+        "VS Code": 41,
+        "LeetCode": 13,
+        "Coursera": 15
+      },
+      "social_apps": {
+        "WhatsApp": 29,
+        "Instagram": 13,
+        "YouTube": 19
+      },
+      "productivity_score": 95
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-06",
+      "total_screen_time": 109,
+      "productive_apps": {
+        "VS Code": 50,
+        "LeetCode": 39,
+        "Coursera": 31
+      },
+      "social_apps": {
+        "WhatsApp": 11,
+        "Instagram": 15,
+        "YouTube": 22
+      },
+      "productivity_score": 88
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-05",
+      "total_screen_time": 65,
+      "productive_apps": {
+        "VS Code": 21,
+        "LeetCode": 19,
+        "Coursera": 16
+      },
+      "social_apps": {
+        "WhatsApp": 29,
+        "Instagram": 26,
+        "YouTube": 25
+      },
+      "productivity_score": 80
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-04",
+      "total_screen_time": 188,
+      "productive_apps": {
+        "VS Code": 32,
+        "LeetCode": 39,
+        "Coursera": 34
+      },
+      "social_apps": {
+        "WhatsApp": 14,
+        "Instagram": 33,
+        "YouTube": 28
+      },
+      "productivity_score": 85
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-03",
+      "total_screen_time": 65,
+      "productive_apps": {
+        "VS Code": 56,
+        "LeetCode": 17,
+        "Coursera": 27
+      },
+      "social_apps": {
+        "WhatsApp": 10,
+        "Instagram": 18,
+        "YouTube": 54
+      },
+      "productivity_score": 80
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-02",
+      "total_screen_time": 116,
+      "productive_apps": {
+        "VS Code": 38,
+        "LeetCode": 17,
+        "Coursera": 6
+      },
+      "social_apps": {
+        "WhatsApp": 16,
+        "Instagram": 32,
+        "YouTube": 51
+      },
+      "productivity_score": 75
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-10-01",
+      "total_screen_time": 148,
+      "productive_apps": {
+        "VS Code": 35,
+        "LeetCode": 39,
+        "Coursera": 15
+      },
+      "social_apps": {
+        "WhatsApp": 13,
+        "Instagram": 32,
+        "YouTube": 24
+      },
+      "productivity_score": 98
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_7",
+      "date": "2025-09-30",
+      "total_screen_time": 176,
+      "productive_apps": {
+        "VS Code": 58,
+        "LeetCode": 37,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 13,
+        "Instagram": 5,
+        "YouTube": 39
+      },
+      "productivity_score": 67
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-06",
+      "total_screen_time": 101,
+      "productive_apps": {
+        "VS Code": 23,
+        "LeetCode": 14,
+        "Coursera": 32
+      },
+      "social_apps": {
+        "WhatsApp": 19,
+        "Instagram": 14,
+        "YouTube": 15
+      },
+      "productivity_score": 78
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-05",
+      "total_screen_time": 91,
+      "productive_apps": {
+        "VS Code": 50,
+        "LeetCode": 24,
+        "Coursera": 5
+      },
+      "social_apps": {
+        "WhatsApp": 27,
+        "Instagram": 15,
+        "YouTube": 36
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-04",
+      "total_screen_time": 115,
+      "productive_apps": {
+        "VS Code": 36,
+        "LeetCode": 23,
+        "Coursera": 13
+      },
+      "social_apps": {
+        "WhatsApp": 40,
+        "Instagram": 15,
+        "YouTube": 10
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-03",
+      "total_screen_time": 96,
+      "productive_apps": {
+        "VS Code": 53,
+        "LeetCode": 32,
+        "Coursera": 16
+      },
+      "social_apps": {
+        "WhatsApp": 30,
+        "Instagram": 21,
+        "YouTube": 10
+      },
+      "productivity_score": 88
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-02",
+      "total_screen_time": 66,
+      "productive_apps": {
+        "VS Code": 58,
+        "LeetCode": 13,
+        "Coursera": 26
+      },
+      "social_apps": {
+        "WhatsApp": 23,
+        "Instagram": 14,
+        "YouTube": 37
+      },
+      "productivity_score": 98
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-10-01",
+      "total_screen_time": 78,
+      "productive_apps": {
+        "VS Code": 58,
+        "LeetCode": 49,
+        "Coursera": 14
+      },
+      "social_apps": {
+        "WhatsApp": 18,
+        "Instagram": 12,
+        "YouTube": 22
+      },
+      "productivity_score": 62
+    },
+    {
+      "student_id": "STU_UCI_1759755846029_8",
+      "date": "2025-09-30",
+      "total_screen_time": 94,
+      "productive_apps": {
+        "VS Code": 18,
+        "LeetCode": 10,
+        "Coursera": 24
+      },
+      "social_apps": {
+        "WhatsApp": 37,
+        "Instagram": 12,
+        "YouTube": 7
+      },
+      "productivity_score": 72
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-06",
+      "total_screen_time": 182,
+      "productive_apps": {
+        "VS Code": 13,
+        "LeetCode": 46,
+        "Coursera": 18
+      },
+      "social_apps": {
+        "WhatsApp": 36,
+        "Instagram": 13,
+        "YouTube": 23
+      },
+      "productivity_score": 93
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-05",
+      "total_screen_time": 184,
+      "productive_apps": {
+        "VS Code": 12,
+        "LeetCode": 53,
+        "Coursera": 13
+      },
+      "social_apps": {
+        "WhatsApp": 25,
+        "Instagram": 9,
+        "YouTube": 5
+      },
+      "productivity_score": 90
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-04",
+      "total_screen_time": 159,
+      "productive_apps": {
+        "VS Code": 29,
+        "LeetCode": 13,
+        "Coursera": 29
+      },
+      "social_apps": {
+        "WhatsApp": 43,
+        "Instagram": 28,
+        "YouTube": 14
+      },
+      "productivity_score": 67
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-03",
+      "total_screen_time": 162,
+      "productive_apps": {
+        "VS Code": 67,
+        "LeetCode": 53,
+        "Coursera": 16
+      },
+      "social_apps": {
+        "WhatsApp": 26,
+        "Instagram": 10,
+        "YouTube": 39
+      },
+      "productivity_score": 83
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-02",
+      "total_screen_time": 79,
+      "productive_apps": {
+        "VS Code": 27,
+        "LeetCode": 27,
+        "Coursera": 17
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 25,
+        "YouTube": 17
+      },
+      "productivity_score": 79
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-10-01",
+      "total_screen_time": 202,
+      "productive_apps": {
+        "VS Code": 19,
+        "LeetCode": 52,
+        "Coursera": 34
+      },
+      "social_apps": {
+        "WhatsApp": 12,
+        "Instagram": 14,
+        "YouTube": 40
+      },
+      "productivity_score": 82
+    },
+    {
+      "student_id": "STU_UCI_1759759312682_0",
+      "date": "2025-09-30",
+      "total_screen_time": 167,
+      "productive_apps": {
+        "VS Code": 26,
+        "LeetCode": 22,
+        "Coursera": 12
+      },
+      "social_apps": {
+        "WhatsApp": 36,
+        "Instagram": 25,
+        "YouTube": 35
+      },
+      "productivity_score": 80
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-06",
+      "total_screen_time": 173,
+      "productive_apps": {
+        "VS Code": 46,
+        "LeetCode": 27,
+        "Coursera": 26
+      },
+      "social_apps": {
+        "WhatsApp": 20,
+        "Instagram": 16,
+        "YouTube": 34
+      },
+      "productivity_score": 85
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-05",
+      "total_screen_time": 142,
+      "productive_apps": {
+        "VS Code": 40,
+        "LeetCode": 37,
+        "Coursera": 17
+      },
+      "social_apps": {
+        "WhatsApp": 16,
+        "Instagram": 22,
+        "YouTube": 31
+      },
+      "productivity_score": 60
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-04",
+      "total_screen_time": 110,
+      "productive_apps": {
+        "VS Code": 49,
+        "LeetCode": 43,
+        "Coursera": 22
+      },
+      "social_apps": {
+        "WhatsApp": 11,
+        "Instagram": 18,
+        "YouTube": 18
+      },
+      "productivity_score": 78
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-03",
+      "total_screen_time": 179,
+      "productive_apps": {
+        "VS Code": 55,
+        "LeetCode": 15,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 40,
+        "Instagram": 21,
+        "YouTube": 48
+      },
+      "productivity_score": 63
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-02",
+      "total_screen_time": 222,
+      "productive_apps": {
+        "VS Code": 68,
+        "LeetCode": 18,
+        "Coursera": 27
+      },
+      "social_apps": {
+        "WhatsApp": 12,
+        "Instagram": 13,
+        "YouTube": 5
+      },
+      "productivity_score": 97
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-10-01",
+      "total_screen_time": 204,
+      "productive_apps": {
+        "VS Code": 31,
+        "LeetCode": 25,
+        "Coursera": 23
+      },
+      "social_apps": {
+        "WhatsApp": 21,
+        "Instagram": 30,
+        "YouTube": 46
+      },
+      "productivity_score": 72
+    },
+    {
+      "student_id": "STU_UCI_1759759312684_1",
+      "date": "2025-09-30",
+      "total_screen_time": 238,
+      "productive_apps": {
+        "VS Code": 44,
+        "LeetCode": 21,
+        "Coursera": 21
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 14,
+        "YouTube": 40
+      },
+      "productivity_score": 99
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-06",
+      "total_screen_time": 116,
+      "productive_apps": {
+        "VS Code": 54,
+        "LeetCode": 10,
+        "Coursera": 19
+      },
+      "social_apps": {
+        "WhatsApp": 33,
+        "Instagram": 8,
+        "YouTube": 36
+      },
+      "productivity_score": 77
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-05",
+      "total_screen_time": 167,
+      "productive_apps": {
+        "VS Code": 12,
+        "LeetCode": 15,
+        "Coursera": 5
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 29,
+        "YouTube": 35
+      },
+      "productivity_score": 81
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-04",
+      "total_screen_time": 189,
+      "productive_apps": {
+        "VS Code": 67,
+        "LeetCode": 24,
+        "Coursera": 17
+      },
+      "social_apps": {
+        "WhatsApp": 18,
+        "Instagram": 26,
+        "YouTube": 48
+      },
+      "productivity_score": 69
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-03",
+      "total_screen_time": 203,
+      "productive_apps": {
+        "VS Code": 48,
+        "LeetCode": 21,
+        "Coursera": 33
+      },
+      "social_apps": {
+        "WhatsApp": 36,
+        "Instagram": 16,
+        "YouTube": 26
+      },
+      "productivity_score": 60
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-02",
+      "total_screen_time": 199,
+      "productive_apps": {
+        "VS Code": 19,
+        "LeetCode": 10,
+        "Coursera": 33
+      },
+      "social_apps": {
+        "WhatsApp": 15,
+        "Instagram": 8,
+        "YouTube": 32
+      },
+      "productivity_score": 80
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-10-01",
+      "total_screen_time": 198,
+      "productive_apps": {
+        "VS Code": 68,
+        "LeetCode": 31,
+        "Coursera": 28
+      },
+      "social_apps": {
+        "WhatsApp": 19,
+        "Instagram": 5,
+        "YouTube": 33
+      },
+      "productivity_score": 67
+    },
+    {
+      "student_id": "STU_UCI_1759759312686_2",
+      "date": "2025-09-30",
+      "total_screen_time": 180,
+      "productive_apps": {
+        "VS Code": 15,
+        "LeetCode": 48,
+        "Coursera": 7
+      },
+      "social_apps": {
+        "WhatsApp": 21,
+        "Instagram": 28,
+        "YouTube": 10
+      },
+      "productivity_score": 91
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-06",
+      "total_screen_time": 236,
+      "productive_apps": {
+        "VS Code": 55,
+        "LeetCode": 41,
+        "Coursera": 29
+      },
+      "social_apps": {
+        "WhatsApp": 9,
+        "Instagram": 22,
+        "YouTube": 25
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-05",
+      "total_screen_time": 237,
+      "productive_apps": {
+        "VS Code": 51,
+        "LeetCode": 54,
+        "Coursera": 14
+      },
+      "social_apps": {
+        "WhatsApp": 19,
+        "Instagram": 9,
+        "YouTube": 20
+      },
+      "productivity_score": 60
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-04",
+      "total_screen_time": 73,
+      "productive_apps": {
+        "VS Code": 46,
+        "LeetCode": 48,
+        "Coursera": 21
+      },
+      "social_apps": {
+        "WhatsApp": 18,
+        "Instagram": 8,
+        "YouTube": 22
+      },
+      "productivity_score": 72
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-03",
+      "total_screen_time": 84,
+      "productive_apps": {
+        "VS Code": 17,
+        "LeetCode": 28,
+        "Coursera": 17
+      },
+      "social_apps": {
+        "WhatsApp": 42,
+        "Instagram": 19,
+        "YouTube": 41
+      },
+      "productivity_score": 96
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-02",
+      "total_screen_time": 107,
+      "productive_apps": {
+        "VS Code": 50,
+        "LeetCode": 27,
+        "Coursera": 27
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 14,
+        "YouTube": 8
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-10-01",
+      "total_screen_time": 97,
+      "productive_apps": {
+        "VS Code": 65,
+        "LeetCode": 50,
+        "Coursera": 16
+      },
+      "social_apps": {
+        "WhatsApp": 16,
+        "Instagram": 26,
+        "YouTube": 49
+      },
+      "productivity_score": 65
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_3",
+      "date": "2025-09-30",
+      "total_screen_time": 160,
+      "productive_apps": {
+        "VS Code": 30,
+        "LeetCode": 53,
+        "Coursera": 14
+      },
+      "social_apps": {
+        "WhatsApp": 10,
+        "Instagram": 34,
+        "YouTube": 24
+      },
+      "productivity_score": 91
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-06",
+      "total_screen_time": 85,
+      "productive_apps": {
+        "VS Code": 11,
+        "LeetCode": 44,
+        "Coursera": 12
+      },
+      "social_apps": {
+        "WhatsApp": 26,
+        "Instagram": 33,
+        "YouTube": 46
+      },
+      "productivity_score": 64
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-05",
+      "total_screen_time": 191,
+      "productive_apps": {
+        "VS Code": 47,
+        "LeetCode": 36,
+        "Coursera": 7
+      },
+      "social_apps": {
+        "WhatsApp": 25,
+        "Instagram": 18,
+        "YouTube": 24
+      },
+      "productivity_score": 61
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-04",
+      "total_screen_time": 142,
+      "productive_apps": {
+        "VS Code": 36,
+        "LeetCode": 37,
+        "Coursera": 29
+      },
+      "social_apps": {
+        "WhatsApp": 14,
+        "Instagram": 28,
+        "YouTube": 48
+      },
+      "productivity_score": 88
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-03",
+      "total_screen_time": 61,
+      "productive_apps": {
+        "VS Code": 50,
+        "LeetCode": 33,
+        "Coursera": 12
+      },
+      "social_apps": {
+        "WhatsApp": 17,
+        "Instagram": 6,
+        "YouTube": 8
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-02",
+      "total_screen_time": 224,
+      "productive_apps": {
+        "VS Code": 59,
+        "LeetCode": 40,
+        "Coursera": 33
+      },
+      "social_apps": {
+        "WhatsApp": 19,
+        "Instagram": 19,
+        "YouTube": 12
+      },
+      "productivity_score": 76
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-10-01",
+      "total_screen_time": 220,
+      "productive_apps": {
+        "VS Code": 48,
+        "LeetCode": 40,
+        "Coursera": 9
+      },
+      "social_apps": {
+        "WhatsApp": 5,
+        "Instagram": 26,
+        "YouTube": 51
+      },
+      "productivity_score": 92
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_4",
+      "date": "2025-09-30",
+      "total_screen_time": 87,
+      "productive_apps": {
+        "VS Code": 27,
+        "LeetCode": 32,
+        "Coursera": 13
+      },
+      "social_apps": {
+        "WhatsApp": 13,
+        "Instagram": 5,
+        "YouTube": 54
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-06",
+      "total_screen_time": 135,
+      "productive_apps": {
+        "VS Code": 26,
+        "LeetCode": 37,
+        "Coursera": 34
+      },
+      "social_apps": {
+        "WhatsApp": 8,
+        "Instagram": 31,
+        "YouTube": 46
+      },
+      "productivity_score": 62
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-05",
+      "total_screen_time": 75,
+      "productive_apps": {
+        "VS Code": 51,
+        "LeetCode": 53,
+        "Coursera": 15
+      },
+      "social_apps": {
+        "WhatsApp": 7,
+        "Instagram": 6,
+        "YouTube": 26
+      },
+      "productivity_score": 68
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-04",
+      "total_screen_time": 113,
+      "productive_apps": {
+        "VS Code": 60,
+        "LeetCode": 13,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 5,
+        "Instagram": 5,
+        "YouTube": 31
+      },
+      "productivity_score": 93
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-03",
+      "total_screen_time": 140,
+      "productive_apps": {
+        "VS Code": 29,
+        "LeetCode": 14,
+        "Coursera": 16
+      },
+      "social_apps": {
+        "WhatsApp": 14,
+        "Instagram": 20,
+        "YouTube": 50
+      },
+      "productivity_score": 76
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-02",
+      "total_screen_time": 179,
+      "productive_apps": {
+        "VS Code": 50,
+        "LeetCode": 11,
+        "Coursera": 31
+      },
+      "social_apps": {
+        "WhatsApp": 10,
+        "Instagram": 23,
+        "YouTube": 8
+      },
+      "productivity_score": 86
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-10-01",
+      "total_screen_time": 223,
+      "productive_apps": {
+        "VS Code": 51,
+        "LeetCode": 52,
+        "Coursera": 6
+      },
+      "social_apps": {
+        "WhatsApp": 22,
+        "Instagram": 8,
+        "YouTube": 18
+      },
+      "productivity_score": 73
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_5",
+      "date": "2025-09-30",
+      "total_screen_time": 124,
+      "productive_apps": {
+        "VS Code": 20,
+        "LeetCode": 36,
+        "Coursera": 10
+      },
+      "social_apps": {
+        "WhatsApp": 32,
+        "Instagram": 7,
+        "YouTube": 48
+      },
+      "productivity_score": 64
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-06",
+      "total_screen_time": 174,
+      "productive_apps": {
+        "VS Code": 26,
+        "LeetCode": 39,
+        "Coursera": 13
+      },
+      "social_apps": {
+        "WhatsApp": 21,
+        "Instagram": 23,
+        "YouTube": 21
+      },
+      "productivity_score": 80
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-05",
+      "total_screen_time": 78,
+      "productive_apps": {
+        "VS Code": 27,
+        "LeetCode": 53,
+        "Coursera": 19
+      },
+      "social_apps": {
+        "WhatsApp": 44,
+        "Instagram": 7,
+        "YouTube": 11
+      },
+      "productivity_score": 95
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-04",
+      "total_screen_time": 236,
+      "productive_apps": {
+        "VS Code": 66,
+        "LeetCode": 27,
+        "Coursera": 5
+      },
+      "social_apps": {
+        "WhatsApp": 10,
+        "Instagram": 19,
+        "YouTube": 20
+      },
+      "productivity_score": 79
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-03",
+      "total_screen_time": 87,
+      "productive_apps": {
+        "VS Code": 39,
+        "LeetCode": 53,
+        "Coursera": 11
+      },
+      "social_apps": {
+        "WhatsApp": 6,
+        "Instagram": 27,
+        "YouTube": 40
+      },
+      "productivity_score": 77
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-02",
+      "total_screen_time": 171,
+      "productive_apps": {
+        "VS Code": 54,
+        "LeetCode": 32,
+        "Coursera": 30
+      },
+      "social_apps": {
+        "WhatsApp": 8,
+        "Instagram": 16,
+        "YouTube": 53
+      },
+      "productivity_score": 96
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-10-01",
+      "total_screen_time": 131,
+      "productive_apps": {
+        "VS Code": 22,
+        "LeetCode": 28,
+        "Coursera": 22
+      },
+      "social_apps": {
+        "WhatsApp": 33,
+        "Instagram": 7,
+        "YouTube": 41
+      },
+      "productivity_score": 64
+    },
+    {
+      "student_id": "STU_UCI_1759759312687_6",
+      "date": "2025-09-30",
+      "total_screen_time": 223,
+      "productive_apps": {
+        "VS Code": 59,
+        "LeetCode": 46,
+        "Coursera": 16
+      },
+      "social_apps": {
+        "WhatsApp": 44,
+        "Instagram": 28,
+        "YouTube": 21
+      },
+      "productivity_score": 84
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-06",
+      "total_screen_time": 87,
+      "productive_apps": {
+        "VS Code": 50,
+        "LeetCode": 42,
+        "Coursera": 7
+      },
+      "social_apps": {
+        "WhatsApp": 20,
+        "Instagram": 22,
+        "YouTube": 28
+      },
+      "productivity_score": 86
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-05",
+      "total_screen_time": 102,
+      "productive_apps": {
+        "VS Code": 12,
+        "LeetCode": 24,
+        "Coursera": 26
+      },
+      "social_apps": {
+        "WhatsApp": 18,
+        "Instagram": 21,
+        "YouTube": 8
+      },
+      "productivity_score": 98
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-04",
+      "total_screen_time": 194,
+      "productive_apps": {
+        "VS Code": 45,
+        "LeetCode": 16,
+        "Coursera": 19
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 25,
+        "YouTube": 16
+      },
+      "productivity_score": 93
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-03",
+      "total_screen_time": 235,
+      "productive_apps": {
+        "VS Code": 26,
+        "LeetCode": 49,
+        "Coursera": 6
+      },
+      "social_apps": {
+        "WhatsApp": 27,
+        "Instagram": 25,
+        "YouTube": 14
+      },
+      "productivity_score": 90
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-02",
+      "total_screen_time": 169,
+      "productive_apps": {
+        "VS Code": 15,
+        "LeetCode": 47,
+        "Coursera": 7
+      },
+      "social_apps": {
+        "WhatsApp": 31,
+        "Instagram": 18,
+        "YouTube": 47
+      },
+      "productivity_score": 68
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-10-01",
+      "total_screen_time": 198,
+      "productive_apps": {
+        "VS Code": 49,
+        "LeetCode": 33,
+        "Coursera": 26
+      },
+      "social_apps": {
+        "WhatsApp": 6,
+        "Instagram": 31,
+        "YouTube": 7
+      },
+      "productivity_score": 64
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_7",
+      "date": "2025-09-30",
+      "total_screen_time": 216,
+      "productive_apps": {
+        "VS Code": 11,
+        "LeetCode": 23,
+        "Coursera": 8
+      },
+      "social_apps": {
+        "WhatsApp": 33,
+        "Instagram": 6,
+        "YouTube": 16
+      },
+      "productivity_score": 70
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-06",
+      "total_screen_time": 103,
+      "productive_apps": {
+        "VS Code": 12,
+        "LeetCode": 30,
+        "Coursera": 29
+      },
+      "social_apps": {
+        "WhatsApp": 39,
+        "Instagram": 17,
+        "YouTube": 49
+      },
+      "productivity_score": 87
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-05",
+      "total_screen_time": 193,
+      "productive_apps": {
+        "VS Code": 18,
+        "LeetCode": 30,
+        "Coursera": 14
+      },
+      "social_apps": {
+        "WhatsApp": 28,
+        "Instagram": 28,
+        "YouTube": 36
+      },
+      "productivity_score": 71
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-04",
+      "total_screen_time": 85,
+      "productive_apps": {
+        "VS Code": 41,
+        "LeetCode": 51,
+        "Coursera": 19
+      },
+      "social_apps": {
+        "WhatsApp": 42,
+        "Instagram": 29,
+        "YouTube": 13
+      },
+      "productivity_score": 74
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-03",
+      "total_screen_time": 67,
+      "productive_apps": {
+        "VS Code": 16,
+        "LeetCode": 20,
+        "Coursera": 34
+      },
+      "social_apps": {
+        "WhatsApp": 25,
+        "Instagram": 26,
+        "YouTube": 19
+      },
+      "productivity_score": 91
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-02",
+      "total_screen_time": 147,
+      "productive_apps": {
+        "VS Code": 26,
+        "LeetCode": 50,
+        "Coursera": 14
+      },
+      "social_apps": {
+        "WhatsApp": 25,
+        "Instagram": 24,
+        "YouTube": 7
+      },
+      "productivity_score": 90
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-10-01",
+      "total_screen_time": 153,
+      "productive_apps": {
+        "VS Code": 10,
+        "LeetCode": 42,
+        "Coursera": 15
+      },
+      "social_apps": {
+        "WhatsApp": 42,
+        "Instagram": 29,
+        "YouTube": 27
+      },
+      "productivity_score": 95
+    },
+    {
+      "student_id": "STU_UCI_1759759312688_8",
+      "date": "2025-09-30",
+      "total_screen_time": 218,
+      "productive_apps": {
+        "VS Code": 15,
+        "LeetCode": 12,
+        "Coursera": 27
+      },
+      "social_apps": {
+        "WhatsApp": 38,
+        "Instagram": 10,
+        "YouTube": 48
+      },
+      "productivity_score": 90
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-14",
+      "total_screen_time": 158,
+      "productive_apps": {
+        "VS Code": 43,
+        "LeetCode": 48,
+        "Coursera": 12
+      },
+      "social_apps": {
+        "WhatsApp": 49,
+        "Instagram": 34,
+        "YouTube": 43
+      },
+      "productivity_score": 77
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-13",
+      "total_screen_time": 115,
+      "productive_apps": {
+        "VS Code": 73,
+        "LeetCode": 50,
+        "Coursera": 22
+      },
+      "social_apps": {
+        "WhatsApp": 47,
+        "Instagram": 30,
+        "YouTube": 22
+      },
+      "productivity_score": 81
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-12",
+      "total_screen_time": 115,
+      "productive_apps": {
+        "VS Code": 54,
+        "LeetCode": 30,
+        "Coursera": 10
+      },
+      "social_apps": {
+        "WhatsApp": 48,
+        "Instagram": 6,
+        "YouTube": 48
+      },
+      "productivity_score": 96
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-11",
+      "total_screen_time": 236,
+      "productive_apps": {
+        "VS Code": 25,
+        "LeetCode": 49,
+        "Coursera": 22
+      },
+      "social_apps": {
+        "WhatsApp": 28,
+        "Instagram": 20,
+        "YouTube": 28
+      },
+      "productivity_score": 99
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-10",
+      "total_screen_time": 136,
+      "productive_apps": {
+        "VS Code": 28,
+        "LeetCode": 48,
+        "Coursera": 19
+      },
+      "social_apps": {
+        "WhatsApp": 26,
+        "Instagram": 11,
+        "YouTube": 35
+      },
+      "productivity_score": 86
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-09",
+      "total_screen_time": 223,
+      "productive_apps": {
+        "VS Code": 30,
+        "LeetCode": 45,
+        "Coursera": 13
+      },
+      "social_apps": {
+        "WhatsApp": 12,
+        "Instagram": 10,
+        "YouTube": 38
+      },
+      "productivity_score": 68
+    },
+    {
+      "student_id": "STU1763124701342",
+      "date": "2025-11-08",
+      "total_screen_time": 216,
+      "productive_apps": {
+        "VS Code": 54,
+        "LeetCode": 33,
+        "Coursera": 22
+      },
+      "social_apps": {
+        "WhatsApp": 34,
+        "Instagram": 32,
+        "YouTube": 55
+      },
+      "productivity_score": 89
+    }
+  ],
+  "events": [
+    {
+      "event_id": "EVT001",
+      "name": "CodeChef Monthly Contest",
+      "type": "Coding Competition",
+      "date": "2024-10-25",
+      "status": "registered",
+      "participants": 1500,
+      "duration": "3 hours"
+    },
+    {
+      "event_id": "EVT002",
+      "name": "Tech Hackathon 2024",
+      "type": "Hackathon",
+      "date": "2024-11-05",
+      "status": "upcoming",
+      "participants": 200,
+      "duration": "48 hours"
+    },
+    {
+      "event_id": "EVT003",
+      "name": "LeetCode Weekly Contest",
+      "type": "Coding Competition",
+      "date": "2024-10-28",
+      "status": "registered",
+      "participants": 8000,
+      "duration": "1.5 hours"
+    }
+  ],
+  "certificates": [],
+  "rankings": [],
+  "activities": []
+}

@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Build files
+dist/
+build/
+.cache/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Config overrides
+config.local.js
+
+# Package lock (optional - uncomment if you prefer not to commit)
+# package-lock.json
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Compiled files
+*.js.map
+
+# Testing
+coverage/
+.nyc_output/
+
+# IDE-specific files
+.settings/
+.classpath
+.project
+.c9/
+
+# Misc
+.sass-cache
+.eslintcache
+.prettierignore
