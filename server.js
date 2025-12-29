@@ -255,41 +255,36 @@ app.get('/', (req, res) => {
     });
 });
 
-// COMPLETE LOGIN with ALL Data Generation
+// COMPLETE LOGIN with reading from student_productivity_db.json
 app.post('/api/auth/login', (req, res) => {
     try {
         const { email, password } = req.body;
         console.log('🔐 Login attempt:', email);
-        
+
         const db = readDB();
-        
-        // Find or create user with complete data
+
+        // Find user in existing data
         let student = db.students.find(s => s.personal_info.email === email);
-        
+
         if (!student) {
-            // Generate complete user data
-            const userData = generateCompleteUserData(email);
-            student = userData;
-            db.students.push(student);
-            
-            // Generate all related data
-            db.productivity.push(...generateProductivityData(student.student_id));
-            db.coding_progress.push(...generateCodingData(student.student_id));
-            db.courses.push(...generateCoursesData(student.student_id, student.personal_info.course));
-            db.mobile_usage.push(...generateMobileUsageData(student.student_id));
-            db.events = generateEventsData();
-            
-            writeDB(db);
-            console.log('🆕 Complete user data generated for:', email);
+            console.log('❌ User not found:', email);
+            return res.json({ success: false, message: 'User not found. Only existing students can log in.' });
         }
-        
+
         console.log('✅ Login successful:', email);
-        
+
         // Get user's complete data
         const userProductivity = db.productivity.filter(p => p.student_id === student.student_id);
         const userCoding = db.coding_progress.filter(c => c.student_id === student.student_id);
         const userCourses = db.courses.filter(c => c.student_id === student.student_id);
         const userMobile = db.mobile_usage.filter(m => m.student_id === student.student_id);
+        // Recalculate productivity score
+        const totalCodingMinutes = userCoding.reduce((a,c)=>a + c.problems_solved,0) * 10;
+        const avgCourseProgress = userCourses.length > 0 ? userCourses.reduce((a,c)=>a + c.progress,0) / userCourses.length : 0;
+        userProductivity.forEach(p => {
+            const base = p.study_time > 0 ? (p.productive_time / p.study_time) * 100 : 0;
+            p.productivity_score = Math.min(100, base + (totalCodingMinutes / 1000) + avgCourseProgress);
+        });
         
         res.json({
             success: true,
@@ -309,7 +304,7 @@ app.post('/api/auth/login', (req, res) => {
         emitLiveUpdate(email, { type: 'initial', user: student, productivity: userProductivity[0], coding: userCoding, courses: userCourses, mobile: userMobile[0], events: db.events });
     } catch (e) { console.error('Live emit failed', e); }
 
-        
+
     } catch (error) {
         console.error('❌ Login error:', error);
         res.json({ success: false, message: 'Login failed' });
@@ -384,6 +379,13 @@ app.get('/api/dashboard/:email', (req, res) => {
             mobile_usage: db.mobile_usage.filter(m => m.student_id === student.student_id),
             events: db.events
         };
+        // Recalculate productivity score
+        const totalCodingMinutes = userData.coding.reduce((a,c)=>a + c.problems_solved,0) * 10;
+        const avgCourseProgress = userData.courses.length > 0 ? userData.courses.reduce((a,c)=>a + c.progress,0) / userData.courses.length : 0;
+        userData.productivity.forEach(p => {
+            const base = p.study_time > 0 ? (p.productive_time / p.study_time) * 100 : 0;
+            p.productivity_score = Math.min(100, base + (totalCodingMinutes / 1000) + avgCourseProgress);
+        });
         
         res.json({
             success: true,
@@ -478,10 +480,10 @@ app.post('/api/mobile-usage', (req, res) => {
     }
 });
 
-// Real-time mobile usage: stream an app usage event and aggregate into today's totals
+// Real-time mobile usage: update productiveMinutes and socialMinutes based on request input
 app.post('/api/mobile-usage/event', (req, res) => {
     try {
-        const { email, appName, minutes, category } = req.body;
+        const { email, productiveMinutes, socialMinutes } = req.body;
         const db = readDB();
         const student = db.students.find(s => s.personal_info.email === email);
         if (!student) return res.status(404).json({ success: false, message: 'User not found' });
@@ -500,17 +502,11 @@ app.post('/api/mobile-usage/event', (req, res) => {
             db.mobile_usage.push(entry);
         }
 
-        const mins = Math.max(0, Number(minutes) || 0);
-        entry.total_screen_time += mins;
-        if (category === 'productive') {
-            entry.productive_apps[appName] = (Number(entry.productive_apps[appName]) || 0) + mins;
-        } else {
-            entry.social_apps[appName] = (Number(entry.social_apps[appName]) || 0) + mins;
-        }
-
-        const productiveFromApps = Object.values(entry.productive_apps).reduce((a, b) => a + (Number(b) || 0), 0);
-        const total = Math.max(0, Number(entry.total_screen_time) || 0);
-        entry.productivity_score = total > 0 ? Math.round((productiveFromApps / total) * 100) : 0;
+        entry.productiveMinutes = Math.max(0, Number(productiveMinutes) || 0);
+        entry.socialMinutes = Math.max(0, Number(socialMinutes) || 0);
+        entry.timestamp = new Date().toISOString();
+        entry.total_screen_time = entry.productiveMinutes + entry.socialMinutes;
+        entry.productivity_score = entry.total_screen_time > 0 ? Math.round((entry.productiveMinutes / entry.total_screen_time) * 100) : 0;
 
         writeDB(db);
         res.json({ success: true, message: 'Event recorded', today: entry });
@@ -659,7 +655,9 @@ app.post('/api/realtime/leetcode', async (req, res) => {
             medium: undefined,
             hard: undefined,
             current_streak: undefined,
-            global_rank: stats.ranking || 0
+            global_rank: stats.ranking || 0,
+            codingMinutes: stats.problemsSolved * 10,
+            lastUpdated: new Date().toISOString()
         };
         if (idx >= 0) db.coding_progress[idx] = { ...db.coding_progress[idx], ...updated };
         else db.coding_progress.push(updated);
